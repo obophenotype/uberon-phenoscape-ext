@@ -8,7 +8,7 @@ Do you have an ID range in the idranges file? If not, get one from the
 head curator.
 
 Ensure that you have Protege configured to generate new IRIs in your
-own range
+own range.
 
 (You can ignore this if you do not intend to create new classes)
 
@@ -30,9 +30,21 @@ here go through the uberon tracker, or be brought up on the mailing
 list.
 
 Save and commit regularly. Always describe the changes you have made
-at a high level in the commit messages. It is a good idea to svn
-update immediately after an svn commit. If there are changes, Protege
-will ask you to reload.
+at a high level in the commit messages. It is a good idea to type "svn
+diff" before committing, although the output can be hard to decipher.
+
+**Important: make sure you save in functional syntax, using the same
+  prefixes as in the source file. This should be automatic.
+
+E.g.
+
+  # [save in Protege]
+  svn diff phenoscape-ext.owl
+  svn commit -m "polished up skull" phenoscape-ext.owl
+  svn update
+
+It is a good idea to svn update immediately after an svn commit. If
+there are changes, Protege will ask you to reload.
 
 After an svn commit, Jenkins will check your changes to make sure they
 conform to guidelines and do not introduce any inconsistencies - an
@@ -90,6 +102,9 @@ particular classes or portions of the ontology be moved into
 phenotype-ext, but classes that have multiple "join points" will
 remain in the core uberon edit source file for now.
 
+Note it is possible to accidentally save axioms in the wrong
+ontology. We will add checks to ensure this doesn't happen.
+
 TIPS
 ----
 
@@ -104,3 +119,8 @@ In the edit/ directory, type
 The next time you open Protege it will create a catalog-v001.xml file
 which maps the ontology to the space on your hard-drive. You will have
 to ensure that you regularly update your local copy.
+
+If there is demand, we can use svn:externals to automate this linkage.
+
+Advanced users can also customize the version of uberon that they
+bring by editing catalog-v001.xml
