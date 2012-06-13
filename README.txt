@@ -51,6 +51,8 @@ conform to guidelines and do not introduce any inconsistencies - an
 email will be sent to the curators list [TODO - decide if this is
 desirable].
 
+  http://build.berkeleybop.org/job/build-phenoscape/
+
 CHECKLIST
 ---------
 
