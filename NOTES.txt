@@ -1,0 +1,41 @@
+How was phenotype-ext.owl created?
+----------------------------------
+
+Phenotype-ext contains:
+
+* an owl:imports axiom to uberon/merged
+* class axioms for 'unique' terms in AAO, TAO and VSAO (aka ATV), with uberon IDs
+
+here 'unique' means anatomical structures not covered in the central
+uberon ontology.
+
+Thus, when bring in in AAO, we discard AAO:phalanx and
+AAO:nasal_opening but retain the axioms for AAO 'fenestra
+nasolateralis', giving this an uberon ID (AAO:0000367 -->
+UBERON:3000167).
+
+TODO:
+include provenance info for classes sourced from outside Uberon
+
+What happened to TAO/AAO/VSAO structures that were covered by Uberon?
+---------------------------------------------------------------------
+
+Uberon already includes classes such as forelimb, cranial nerve II,
+liver, proximal phalanx etc. A lot of work has gone into ensuring
+correctness and cross-taxon applicability, and for many design
+documents are available. Thus when creating phenoscape-ext from "ATV"
+we discard the representation of these classes in the source ontology.
+
+We also retain the original text definition through an
+"external_definition" annotation property, and we make not of any
+axioms that get lost in the generation process. These annotations are
+only visible in Protege.
+
+Cell types
+----------
+
+cell types are currently a bit of a mess, as these are duplicated
+across multiple ontologies without proper integration to CL. Currently
+there are some duplicates declared in phenoscape-ext. These should
+eventually be removed - there is no need for phenoscape to extend CL,
+everything you need should have a CL ID.
