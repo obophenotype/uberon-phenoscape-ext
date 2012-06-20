@@ -4,8 +4,8 @@ INSTRUCTIONS FOR EDITORS
 PRE-EDIT CHECKLIST
 ------------------
 
-Do you have an ID range in the idranges file? If not, get one from the
-head curator.
+Do you have an ID range in the idranges file (phenoscape-idranges.owl,
+in this directory)? If not, get one from the head curator.
 
 Ensure that you have Protege configured to generate new IRIs in your
 own range.
