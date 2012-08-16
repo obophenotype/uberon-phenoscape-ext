@@ -22,29 +22,36 @@ Always start by doing:
 Then, open the file phenoscape-ext.owl in Protege
 
 Switch on the Elk reasoner. If you are making changes, be sure to
-synchronize them.
+synchronize the reasoner.
 
 You have access rights to any classes that are highlighted in bold
-font. Do not make changes to classes that are not in bold - changes
+font. Do not make changes to classes that are NOT in bold - changes
 here go through the uberon tracker, or be brought up on the mailing
 list.
 
 Save and commit regularly. Always describe the changes you have made
-at a high level in the commit messages. It is a good idea to type "svn
-diff" before committing, although the output can be hard to decipher.
+at a high level in the svn commit messages. It is a good idea to type
+"svn diff" before committing (although the output can be hard to
+decipher).
 
 **Important: make sure you save in functional syntax, using the same
-  prefixes as in the source file. This should be automatic.
+  prefixes as in the source file. This SHOULD be automatic.
 
-E.g.
+Example session from view of command line:
 
+  svn update
+  # [open in protege]
+  # [edit in Protege]
+  # [save in Protege]
+  # ...
+  # [edit in Protege]
   # [save in Protege]
   svn diff phenoscape-ext.owl
   svn commit -m "polished up skull" phenoscape-ext.owl
   svn update
 
-It is a good idea to svn update immediately after an svn commit. If
-there are changes, Protege will ask you to reload.
+It is always a good idea to svn update immediately after an svn
+commit. If there are changes, Protege will ask you to reload.
 
 After an svn commit, Jenkins will check your changes to make sure they
 conform to guidelines and do not introduce any inconsistencies - an
@@ -82,8 +89,8 @@ In particular:
 * https://docs.google.com/document/d/1cPWBqrl_Qy7XHEWFqtR_PgQX61yRkgGuLaiDpnEXxkE/edit
 * http://genomebiology.com/2012/13/1/R5
 
-Never delete classes - obsolete instead of deleting, and even then,
-with care.
+NEVER delete classes - ALWAYS obsolete/deprecate instead of deleting,
+and even then, do this carefully. Uses replaced_by/consider.
 
 ONTOLOGY COORDINATION
 ---------------------
@@ -95,7 +102,9 @@ outline of what you intend to do.
 
 Always look at analagous or homologous structures such that your
 modeling decisions are consistent or at least informed by previous
-work.
+work. For example, if you are going to add a new subclass of
+"calcareous tooth" look at existing subclasses and use the same
+relationships, naming conventions and text definition styles.
 
 Some axioms live in phenotype-ext, some in the core uberon_edit
 source. A seamless view is presented for editors, but be aware that
@@ -125,4 +134,8 @@ to ensure that you regularly update your local copy.
 If there is demand, we can use svn:externals to automate this linkage.
 
 Advanced users can also customize the version of uberon that they
-bring by editing catalog-v001.xml
+import by editing catalog-v001.xml
+
+FAQ
+---
+
