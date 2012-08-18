@@ -8,7 +8,7 @@ Do you have an ID range in the idranges file (phenoscape-idranges.owl,
 in this directory)? If not, get one from the head curator.
 
 Ensure that you have Protege configured to generate new IRIs in your
-own range.
+own range. Note that if you edit multiple files, you need to check this every time to ensure that the proper settings are in place.
 
 (You can ignore this if you do not intend to create new classes)
 
@@ -27,7 +27,27 @@ synchronize the reasoner.
 You have access rights to any classes that are highlighted in bold
 font. Do not make changes to classes that are NOT in bold - changes
 here go through the uberon tracker, or be brought up on the mailing
-list.
+list. Note that it is fine for any request to go on the uberon tracker. 
+The tracker is here: https://github.com/cmungall/uberon/issues?direction=desc&sort=created&state=open
+
+OBSOLETING
+---------------
+
+At first, there may be a number of bold terms that need obsoleting and replacing with existing uberon classes. Here are the steps:
+
+1. Find the bold class you wish to obsolete, and compare it with the class you wish to replace it with. You need to check that both the text definition and the logical axioms have the same intent, and that nothing desired is lost in the obsolescence.
+
+2. Relabel the class as "obsolete your old term label here". 
+
+3. Add an annotation property, "deprecated", write "true" in the box and make the type boolean.
+
+4. Delete subClassOf axioms by clicking on the x to the right of the axioms. If there are equivalence axioms, you may wish to consult with an expert to make sure the axioms are retained properly in the file.
+
+5. Add an annotation property "term replaced by". Navigate to the term by clicking on the "entity IRI" and either browse or control F to find the term that is replacing the one being obsoleted.
+
+
+SAVING and COMMITTING
+---------------
 
 Save and commit regularly. Always describe the changes you have made
 at a high level in the svn commit messages. It is a good idea to type
