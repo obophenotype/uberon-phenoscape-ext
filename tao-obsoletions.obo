@@ -1581,6 +1581,11 @@ is_obsolete: true
 replaced_by: UBERON:0002376 ! muscle of head
 
 [Term]
+id: TAO:0002198 ! head muscle
+is_obsolete: true
+replaced_by: UBERON:0002376 ! muscle of head
+
+[Term]
 id: TAO:0000329 ! chorion
 is_obsolete: true
 replaced_by: UBERON:0000920 ! egg chorion
@@ -2228,6 +2233,7 @@ replaced_by: UBERON:2000462 ! abductor hyohyoid
 [Term]
 id: TAO:0000463 ! adductor
 is_obsolete: true
+replaced_by: UBERON:0011996 ! pharyngeal adductor
 
 [Term]
 id: TAO:0000464 ! otic lateral line
@@ -15283,4 +15289,3 @@ replaced_by: CL:1000083 ! stratified keratinized epithelial stem cell
 id: TAO:0100000 ! teleost anatomical entity
 is_obsolete: true
 replaced_by: UBERON:0001062 ! anatomical entity
-
