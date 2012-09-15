@@ -15227,7 +15227,7 @@ replaced_by: CL:0000849 ! crypt olfactory receptor neuron
 [Term]
 id: TAO:0009361 ! serotonergic neuron
 is_obsolete: true
-consider: CL:0000850 ! serotonergic neuron
+replaced_by: CL:0000850 ! serotonergic neuron
 
 [Term]
 id: TAO:0009362 ! neuromast mantle cell
