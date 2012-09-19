@@ -1,0 +1,1239 @@
+ontology: uberon/vsao-obsoletions
+
+[Term]
+id: VSAO:0000307 ! perichordal bone
+is_obsolete: true
+replaced_by: UBERON:0008909 ! perichordal bone
+
+[Term]
+id: VSAO:0000078 ! chondroid tissue
+is_obsolete: true
+replaced_by: UBERON:4000078 ! chondroid tissue
+
+[Term]
+id: VSAO:0000007 ! basihyal bone
+is_obsolete: true
+replaced_by: UBERON:0011618 ! basihyal bone
+
+[Term]
+id: VSAO:0000042 ! skeletal subdivision
+is_obsolete: true
+replaced_by: UBERON:0010912 ! subdivision of skeleton
+
+[Term]
+id: VSAO:0000105 ! limiting layer of elasmoid scale
+is_obsolete: true
+replaced_by: UBERON:4000105 ! limiting layer of elasmoid scale
+
+[Term]
+id: VSAO:0000043 ! precementoblast
+is_obsolete: true
+replaced_by: CL:0007002 ! precementoblast
+
+[Term]
+id: VSAO:0005031 ! clavicle bone
+is_obsolete: true
+replaced_by: UBERON:0001105 ! clavicle
+
+[Term]
+id: VSAO:0005057 ! brachium
+is_obsolete: true
+replaced_by: UBERON:0003822 ! forelimb stylopod
+
+[Term]
+id: VSAO:0000017 ! portion of connective tissue
+is_obsolete: true
+replaced_by: UBERON:0002384 ! connective tissue
+
+[Term]
+id: VSAO:0000179 ! fin bud
+is_obsolete: true
+replaced_by: UBERON:0002531 ! paired fin bud
+
+[Term]
+id: VSAO:0000157 ! scapula
+is_obsolete: true
+replaced_by: UBERON:0006849 ! scapula
+
+[Term]
+id: VSAO:0000036 ! perichondrium
+is_obsolete: true
+replaced_by: UBERON:0002222 ! perichondrium
+
+[Term]
+id: VSAO:0000079 ! odontode scale
+is_obsolete: true
+replaced_by: UBERON:0000041 ! dermal denticle
+
+[Term]
+id: VSAO:0000109 ! mineralized hyaline cartilage tissue
+is_obsolete: true
+replaced_by: UBERON:4000109 ! mineralized hyaline cartilage tissue
+
+[Term]
+id: VSAO:0005055 ! distal tarsal 4
+is_obsolete: true
+replaced_by: UBERON:0010737 ! distal tarsal bone 4
+
+[Term]
+id: VSAO:0000088 ! mineralized cartilage tissue
+is_obsolete: true
+replaced_by: UBERON:4000088 ! mineralized cartilage tissue
+
+[Term]
+id: VSAO:0000097 ! orthodentine
+is_obsolete: true
+replaced_by: UBERON:4000097 ! orthodentine
+
+[Term]
+id: VSAO:0000131 ! appendicular ossicle
+is_obsolete: true
+replaced_by: UBERON:0011141 ! appendicular ossicle
+
+[Term]
+id: VSAO:0000068 ! odontoblast
+is_obsolete: true
+replaced_by: CL:0000060 ! odontoblast
+
+[Term]
+id: VSAO:0000185 ! vertebral column
+is_obsolete: true
+replaced_by: UBERON:0001130 ! vertebral column
+
+[Term]
+id: VSAO:0005002 ! scapulocoracoid
+is_obsolete: true
+replaced_by: UBERON:0004753 ! scapulocoracoid
+
+[Term]
+id: VSAO:0000122 ! acellular bone tissue
+is_obsolete: true
+replaced_by: UBERON:4000122 ! acellular bone tissue
+
+[Term]
+id: VSAO:0005043 ! distal carpal 1
+is_obsolete: true
+replaced_by: UBERON:0001430 ! distal carpal bone 1
+
+[Term]
+id: VSAO:0005019 ! autopodial skeleton
+is_obsolete: true
+replaced_by: UBERON:0006717 ! skeleton of autopod
+
+[Term]
+id: VSAO:0000031 ! musculoskeletal system
+is_obsolete: true
+replaced_by: UBERON:0002204 ! musculoskeletal system
+
+[Term]
+id: VSAO:0005012 ! radius
+is_obsolete: true
+replaced_by: UBERON:0001423 ! radius bone
+
+[Term]
+id: VSAO:0000000 ! cartilaginous element
+is_obsolete: true
+replaced_by: UBERON:0007844 ! cartilaginous element
+
+[Term]
+id: VSAO:0000146 ! transient cartilaginous element
+is_obsolete: true
+replaced_by: UBERON:4000146 ! transient cartilaginous element
+
+[Term]
+id: VSAO:0005021 ! pes
+is_obsolete: true
+replaced_by: UBERON:0001445 ! skeleton of pes
+
+[Term]
+id: VSAO:0000164 ! caudal fin
+is_obsolete: true
+replaced_by: UBERON:4000164 ! caudal fin
+
+[Term]
+id: VSAO:0000300 ! free limb skeleton
+is_obsolete: true
+replaced_by: UBERON:0004381 ! skeleton of limb
+
+[Term]
+id: VSAO:0000132 ! ossicle
+is_obsolete: true
+replaced_by: UBERON:0010911 ! ossicle
+
+[Term]
+id: VSAO:0005052 ! distal tarsal 1
+is_obsolete: true
+replaced_by: UBERON:0001452 ! distal tarsal bone 1
+
+[Term]
+id: VSAO:0000214 ! appendage girdle complex
+is_obsolete: true
+replaced_by: UBERON:0010707 ! appendage girdle complex
+
+[Term]
+id: VSAO:0000119 ! non-mineralized avascular GAG-rich matrix
+is_obsolete: true
+replaced_by: UBERON:4000119 ! non-mineralized avascular GAG-rich matrix
+
+[Term]
+id: VSAO:0000052 ! ganoid scale
+is_obsolete: true
+replaced_by: UBERON:4000052 ! ganoid scale
+
+[Term]
+id: VSAO:0000021 ! proteinaceous extracellular matrix
+is_obsolete: true
+replaced_by: UBERON:4000021 ! proteinaceous extracellular matrix
+
+[Term]
+id: VSAO:0000301 ! limb/fin skeleton
+is_obsolete: true
+replaced_by: UBERON:0011582 ! skeleton of limb/fin
+
+[Term]
+id: VSAO:0000182 ! suprabranchial fin
+is_obsolete: true
+replaced_by: UBERON:4000182 ! suprabranchial fin
+
+[Term]
+id: VSAO:0000100 ! periarticular chondrocyte
+is_obsolete: true
+replaced_by: CL:0000742 ! periarticular chondrocyte
+
+[Term]
+id: VSAO:0000169 ! paired fin skeleton
+is_obsolete: true
+replaced_by: UBERON:0010713 ! paired fin skeleton
+
+[Term]
+id: VSAO:0005016 ! calcaneum
+is_obsolete: true
+replaced_by: UBERON:0001450 ! calcaneus
+
+[Term]
+id: VSAO:0000014 ! basihyal cartilage
+is_obsolete: true
+replaced_by: UBERON:0011615 ! basihyal cartilage
+
+[Term]
+id: VSAO:0000075 ! appendage
+is_obsolete: true
+replaced_by: UBERON:0000026 ! appendage
+
+[Term]
+id: VSAO:0000046 ! osteoid
+is_obsolete: true
+replaced_by: UBERON:0008883 ! osteoid
+
+[Term]
+id: VSAO:0000047 ! bone tissue
+is_obsolete: true
+replaced_by: UBERON:0002481 ! bone tissue
+
+[Term]
+id: VSAO:0000112 ! odontocyte
+is_obsolete: true
+replaced_by: CL:0000140 ! odontocyte
+
+[Term]
+id: VSAO:0000142 ! metaplastic ossification
+is_obsolete: true
+replaced_by: GO:0036074 ! metaplastic ossification
+
+[Term]
+id: VSAO:0000032 ! notochord
+is_obsolete: true
+replaced_by: UBERON:0002328 ! notochord
+
+[Term]
+id: VSAO:0000063 ! odontoid tissue
+is_obsolete: true
+replaced_by: UBERON:0010365 ! odontoid tissue
+
+[Term]
+id: VSAO:0000016 ! basihyal condensation
+is_obsolete: true
+
+[Term]
+id: VSAO:0005028 ! acropodium
+is_obsolete: true
+replaced_by: UBERON:0010543 ! skeleton of acropodium
+
+[Term]
+id: VSAO:0005067 ! scapular acromion
+is_obsolete: true
+replaced_by: UBERON:0002497 ! acromion
+
+[Term]
+id: VSAO:0000207 ! maxilla
+is_obsolete: true
+replaced_by: UBERON:0002397 ! maxilla
+
+[Term]
+id: VSAO:0200000 ! 
+is_obsolete: true
+replaced_by: UBERON:4200000 ! medial blade of ilium
+
+[Term]
+id: VSAO:0005046 ! distal carpal 4
+is_obsolete: true
+replaced_by: UBERON:0001433 ! distal carpal bone 4
+
+[Term]
+id: VSAO:0000084 ! cementocyte
+is_obsolete: true
+replaced_by: CL:0000141 ! cementocyte
+
+[Term]
+id: VSAO:0000170 ! median fin skeleton
+is_obsolete: true
+replaced_by: UBERON:4000170 ! median fin skeleton
+
+[Term]
+id: VSAO:0000056 ! axial skeleton
+is_obsolete: true
+replaced_by: UBERON:0005944 ! axial skeleton plus cranial skeleton
+
+[Term]
+id: VSAO:0000160 ! anocleithrum
+is_obsolete: true
+replaced_by: UBERON:4000160 ! anocleithrum
+
+[Term]
+id: VSAO:0000004 ! opercle bone
+is_obsolete: true
+replaced_by: UBERON:2000250 ! opercle
+
+[Term]
+id: VSAO:0000153 ! pectoral fin skeleton
+is_obsolete: true
+replaced_by: UBERON:0010710 ! pectoral fin skeleton
+
+[Term]
+id: VSAO:0000156 ! pectoral girdle
+is_obsolete: true
+replaced_by: UBERON:0007831 ! skeleton of pectoral girdle
+
+[Term]
+id: VSAO:0000139 ! endochondral element
+is_obsolete: true
+replaced_by: UBERON:0010363 ! endochondral element
+
+[Term]
+id: VSAO:0000127 ! gastralium
+is_obsolete: true
+replaced_by: UBERON:0010898 ! gastralium
+
+[Term]
+id: VSAO:0000037 ! endoskeleton
+is_obsolete: true
+replaced_by: UBERON:0010362 ! endoskeleton
+
+[Term]
+id: VSAO:0000089 ! non-mineralized cartilage tissue
+is_obsolete: true
+replaced_by: UBERON:0011589 ! non-mineralized cartilage tissue
+
+[Term]
+id: VSAO:0000027 ! skeletal system
+is_obsolete: true
+replaced_by: UBERON:0001434 ! skeletal system
+
+[Term]
+id: VSAO:0000186 ! femur
+is_obsolete: true
+replaced_by: UBERON:0000981 ! femur
+
+[Term]
+id: VSAO:0000158 ! coracoid
+is_obsolete: true
+replaced_by: UBERON:0004743 ! coracoid bone
+
+[Term]
+id: VSAO:0000041 ! preodontoblast
+is_obsolete: true
+replaced_by: CL:0007003 ! preodontoblast
+
+[Term]
+id: VSAO:0000060 ! osteoblast
+is_obsolete: true
+replaced_by: CL:0000062 ! osteoblast
+
+[Term]
+id: VSAO:0000162 ! median fin
+is_obsolete: true
+replaced_by: UBERON:4000162 ! median fin
+
+[Term]
+id: VSAO:0000108 ! non-mineralized hyaline cartilage tissue
+is_obsolete: true
+replaced_by: UBERON:4000108 ! non-mineralized hyaline cartilage tissue
+
+[Term]
+id: VSAO:0005022 ! mesopodial skeleton
+is_obsolete: true
+replaced_by: UBERON:0009878 ! mesopodium skeleton
+
+[Term]
+id: VSAO:0000093 ! postcranial axial skeleton
+is_obsolete: true
+replaced_by: UBERON:0002090 ! postcranial axial skeleton
+
+[Term]
+id: VSAO:0000178 ! embryonic structure
+is_obsolete: true
+replaced_by: UBERON:0002050 ! embryonic structure
+
+[Term]
+id: VSAO:0000098 ! hypertrophic chondrocyte
+is_obsolete: true
+replaced_by: CL:0000743 ! hypertrophic chondrocyte
+
+[Term]
+id: VSAO:0000215 ! pelvic complex
+is_obsolete: true
+replaced_by: UBERON:0010709 ! pelvic complex
+
+[Term]
+id: VSAO:0005056 ! distal tarsal 5
+is_obsolete: true
+replaced_by: UBERON:0010738 ! distal tarsal bone 5
+
+[Term]
+id: VSAO:0005058 ! antebrachium
+is_obsolete: true
+replaced_by: UBERON:0002386 ! forelimb zeugopod
+
+[Term]
+id: VSAO:0000104 ! ganoine
+is_obsolete: true
+replaced_by: UBERON:4000104 ! ganoine
+
+[Term]
+id: VSAO:0000167 ! caudal fin skeleton
+is_obsolete: true
+replaced_by: UBERON:4000167 ! caudal fin skeleton
+
+[Term]
+id: VSAO:0000050 ! dense regular connective tissue
+is_obsolete: true
+replaced_by: UBERON:0007846 ! dense regular connective tissue
+
+[Term]
+id: VSAO:0005014 ! posterior zeugopodium
+is_obsolete: true
+replaced_by: UBERON:0010720 ! hindlimb zeugopod skeleton
+
+[Term]
+id: VSAO:0000080 ! keratin-based scale
+is_obsolete: true
+replaced_by: UBERON:4000080 ! keratin-based scale
+
+[Term]
+id: VSAO:0000099 ! fin
+is_obsolete: true
+replaced_by: UBERON:0008897 ! fin
+
+[Term]
+id: VSAO:0005011 ! anterior zeugopodium
+is_obsolete: true
+replaced_by: UBERON:0010703 ! forelimb zeugopod skeleton
+
+[Term]
+id: VSAO:0000147 ! pectoral fin
+is_obsolete: true
+replaced_by: UBERON:0000151 ! pectoral fin
+
+[Term]
+id: VSAO:0000111 ! paired fin
+is_obsolete: true
+replaced_by: UBERON:0002534 ! paired fin
+
+[Term]
+id: VSAO:0000308 ! perichondral bone
+is_obsolete: true
+replaced_by: UBERON:0008913 ! perichondral bone
+
+[Term]
+id: VSAO:0000130 ! dermal bone
+is_obsolete: true
+replaced_by: UBERON:0008907 ! dermal bone
+
+[Term]
+id: VSAO:0000064 ! ameloblast
+is_obsolete: true
+replaced_by: CL:0000059 ! ameloblast
+
+[Term]
+id: VSAO:0000110 ! columnar chondrocyte
+is_obsolete: true
+replaced_by: CL:0000744 ! columnar chondrocyte
+
+[Term]
+id: VSAO:0000085 ! chondrocyte
+is_obsolete: true
+replaced_by: CL:0000138 ! chondrocyte
+
+[Term]
+id: VSAO:0005044 ! distal carpal 2
+is_obsolete: true
+replaced_by: UBERON:0001431 ! distal carpal bone 2
+
+[Term]
+id: VSAO:0000174 ! caudal fin lepidotrichium
+is_obsolete: true
+replaced_by: UBERON:4000174 ! caudal fin lepidotrichium
+
+[Term]
+id: VSAO:0000113 ! enameloid
+is_obsolete: true
+replaced_by: UBERON:0011692 ! enameloid
+
+[Term]
+id: VSAO:0000074 ! palaeoniscoid scale
+is_obsolete: true
+replaced_by: UBERON:4000074 ! palaeoniscoid scale
+
+[Term]
+id: VSAO:0000135 ! replacement element
+is_obsolete: true
+replaced_by: UBERON:0010522 ! replacement element
+
+[Term]
+id: VSAO:0000126 ! pelvic appendage
+is_obsolete: true
+replaced_by: UBERON:0004709 ! pelvic appendage
+
+[Term]
+id: VSAO:0000033 ! muscular system
+is_obsolete: true
+replaced_by: UBERON:0000383 ! musculature of body
+
+[Term]
+id: VSAO:0005006 ! ischium
+is_obsolete: true
+replaced_by: UBERON:0001274 ! ischium
+
+[Term]
+id: VSAO:0000304 ! pelvic girdle region
+is_obsolete: true
+replaced_by: UBERON:0001271 ! pelvic girdle region
+
+[Term]
+id: VSAO:0000011 ! mesodermal cell
+is_obsolete: true
+replaced_by: CL:0000222 ! mesodermal cell
+
+[Term]
+id: VSAO:0000118 ! cellular bone tissue
+is_obsolete: true
+replaced_by: UBERON:4000118 ! cellular bone tissue
+
+[Term]
+id: VSAO:0000026 ! skeleton
+is_obsolete: true
+replaced_by: UBERON:0004288 ! skeleton
+
+[Term]
+id: VSAO:0000302 ! girdle skeleton
+is_obsolete: true
+replaced_by: UBERON:0010719 ! girdle skeleton
+
+[Term]
+id: VSAO:0000168 ! dorsal fin skeleton
+is_obsolete: true
+replaced_by: UBERON:4000168 ! dorsal fin skeleton
+
+[Term]
+id: VSAO:0000143 ! endochondral ossification
+is_obsolete: true
+replaced_by: GO:0001958 ! endochondral ossification
+
+[Term]
+id: VSAO:0005029 ! anterior acropodium
+is_obsolete: true
+replaced_by: UBERON:0010688 ! skeleton of anterior acropodium
+
+[Term]
+id: VSAO:0005007 ! stylopodial skeleton
+is_obsolete: true
+replaced_by: UBERON:0011583 ! stylopodial skeleton
+
+[Term]
+id: VSAO:0000163 ! anal fin
+is_obsolete: true
+replaced_by: UBERON:4000163 ! anal fin
+
+[Term]
+id: VSAO:0000173 ! pelvic fin lepidotrichium
+is_obsolete: true
+replaced_by: UBERON:4000173 ! pelvic fin lepidotrichium
+
+[Term]
+id: VSAO:0000022 ! extracellular matrix
+is_obsolete: true
+replaced_by: UBERON:4000022 ! extracellular matrix
+
+[Term]
+id: VSAO:0000152 ! hindlimb skeleton
+is_obsolete: true
+replaced_by: UBERON:0001441 ! hindlimb skeleton
+
+[Term]
+id: VSAO:0000051 ! lepidosteoid scale
+is_obsolete: true
+replaced_by: UBERON:4000051 ! lepidosteoid scale
+
+[Term]
+id: VSAO:0000055 ! polypteroid scale
+is_obsolete: true
+replaced_by: UBERON:4000055 ! polypteroid scale
+
+[Term]
+id: VSAO:0000045 ! preosteoblast
+is_obsolete: true
+replaced_by: CL:0007010 ! preosteoblast
+
+[Term]
+id: VSAO:0005053 ! distal tarsal 2
+is_obsolete: true
+replaced_by: UBERON:0001453 ! distal tarsal bone 2
+
+[Term]
+id: VSAO:0000136 ! direct ossification
+is_obsolete: true
+replaced_by: GO:0036072 ! direct ossification
+
+[Term]
+id: VSAO:0000208 ! frontal bone
+is_obsolete: true
+replaced_by: UBERON:0000209 ! tetrapod frontal bone
+
+[Term]
+id: VSAO:0000103 ! fibrocartilage
+is_obsolete: true
+replaced_by: UBERON:0001995 ! fibrocartilage
+
+[Term]
+id: VSAO:0200001 ! 
+is_obsolete: true
+replaced_by: UBERON:4200001 ! postpubis
+
+[Term]
+id: VSAO:0000003 ! permanent cartilage
+is_obsolete: true
+replaced_by: UBERON:4000003 ! permanent cartilage
+
+[Term]
+id: VSAO:0000183 ! vertebral centrum
+is_obsolete: true
+replaced_by: UBERON:0001075 ! body of vertebra
+
+[Term]
+id: VSAO:0000009 ! notochordal cell
+is_obsolete: true
+replaced_by: CL:0007005 ! notochordal cell
+
+[Term]
+id: VSAO:0000095 ! non-terminally differentiated odontoblast
+is_obsolete: true
+replaced_by: CL:00007012 ! 
+
+[Term]
+id: VSAO:0005040 ! lunar
+is_obsolete: true
+replaced_by: UBERON:0001428 ! lunate
+
+[Term]
+id: VSAO:0005025 ! metapodial skeleton
+is_obsolete: true
+replaced_by: UBERON:0010546 ! metapodium skeleton
+
+[Term]
+id: VSAO:0000010 ! notochordal mesodermal cell
+is_obsolete: true
+replaced_by: CL:0007006 ! chordamesodermal cell
+
+[Term]
+id: VSAO:0000081 ! cosmoid scale
+is_obsolete: true
+replaced_by: UBERON:4000081 ! cosmoid scale
+
+[Term]
+id: VSAO:0000121 ! limb
+is_obsolete: true
+replaced_by: UBERON:0002101 ! limb
+
+[Term]
+id: VSAO:0005018 ! limb skeleton subdivision
+is_obsolete: true
+replaced_by: UBERON:0010712 ! limb skeleton subdivision
+
+[Term]
+id: VSAO:0000065 ! enamel
+is_obsolete: true
+replaced_by: UBERON:0001752 ! enamel
+
+[Term]
+id: VSAO:0000102 ! osteodentine
+is_obsolete: true
+replaced_by: UBERON:4000102 ! osteodentine
+
+[Term]
+id: VSAO:0005000 ! pectoral appendage skeleton
+is_obsolete: true
+replaced_by: UBERON:0007272 ! pectoral appendage skeleton
+
+[Term]
+id: VSAO:0000120 ! mineralized avascular GAG-rich matrix
+is_obsolete: true
+replaced_by: UBERON:4000120 ! mineralized avascular GAG-rich matrix
+
+[Term]
+id: VSAO:0000201 ! hallux
+is_obsolete: true
+replaced_by: UBERON:0003631 ! pes digit 1
+
+[Term]
+id: VSAO:0000159 ! ossified ligament
+is_obsolete: true
+replaced_by: UBERON:4000159 ! ossified ligament
+
+[Term]
+id: VSAO:0000138 ! ligamentous replacement element
+is_obsolete: true
+replaced_by: UBERON:4000138 ! ligamentous replacement element
+
+[Term]
+id: VSAO:0005010 ! zeugopodial skeleton
+is_obsolete: true
+replaced_by: UBERON:0011584 ! zeugopodial skeleton
+
+[Term]
+id: VSAO:0000002 ! mode of ossification
+is_obsolete: true
+replaced_by: GO:0001503 ! ossification
+
+[Term]
+id: VSAO:0000094 ! hyaline cartilage tissue
+is_obsolete: true
+replaced_by: UBERON:0001994 ! hyaline cartilage
+
+[Term]
+id: VSAO:0000058 ! chondroblast
+is_obsolete: true
+replaced_by: CL:0000058 ! chondroblast
+
+[Term]
+id: VSAO:0000129 ! pelvic fin
+is_obsolete: true
+replaced_by: UBERON:0000152 ! pelvic fin
+
+[Term]
+id: VSAO:0000019 ! chordablast
+is_obsolete: true
+replaced_by: CL:0007008 ! notochordal vacuole cell
+
+[Term]
+id: VSAO:0005038 ! musculature
+is_obsolete: true
+replaced_by: UBERON:0001015 ! musculature
+
+[Term]
+id: VSAO:0000124 ! osteocyte
+is_obsolete: true
+replaced_by: CL:0000137 ! osteocyte
+
+[Term]
+id: VSAO:0000117 ! non-terminally differentiated osteoblast
+is_obsolete: true
+replaced_by: CL:0001040 ! non-terminally differentiated osteoblast
+
+[Term]
+id: VSAO:0000155 ! pelvic girdle
+is_obsolete: true
+replaced_by: UBERON:0007832 ! skeleton of pelvic girdle
+
+[Term]
+id: VSAO:0000049 ! cranial skeleton
+is_obsolete: true
+replaced_by: UBERON:0010323 ! cranial skeletal system
+
+[Term]
+id: VSAO:0000148 ! forelimb
+is_obsolete: true
+replaced_by: UBERON:0002102 ! forelimb
+
+[Term]
+id: VSAO:0000114 ! pre-enameloid
+is_obsolete: true
+replaced_by: UBERON:0011688 ! pre-enameloid
+
+[Term]
+id: VSAO:0000107 ! elasmodine
+is_obsolete: true
+replaced_by: UBERON:4000107 ! elasmodine
+
+[Term]
+id: VSAO:0000134 ! ossified tendon
+is_obsolete: true
+replaced_by: UBERON:4000134 ! ossified tendon
+
+[Term]
+id: VSAO:0000187 ! cleithrum
+is_obsolete: true
+replaced_by: UBERON:0004741 ! cleithrum
+
+[Term]
+id: VSAO:0000061 ! cementoblast
+is_obsolete: true
+replaced_by: CL:0000061 ! cementoblast
+
+[Term]
+id: VSAO:0000086 ! secondary cartilage tissue
+is_obsolete: true
+replaced_by: UBERON:4000086 ! secondary cartilage tissue
+
+[Term]
+id: VSAO:0000028 ! integumentary papilla
+is_obsolete: true
+replaced_by: UBERON:4000028 ! integumentary papilla
+
+[Term]
+id: VSAO:0000199 ! phalanx
+is_obsolete: true
+replaced_by: UBERON:0003221 ! phalanx
+
+[Term]
+id: VSAO:0000040 ! cartilage tissue
+is_obsolete: true
+replaced_by: UBERON:0002418 ! cartilage tissue
+
+[Term]
+id: VSAO:0000038 ! preameloblast
+is_obsolete: true
+replaced_by: CL:0007000 ! preameloblast
+
+[Term]
+id: VSAO:0000106 ! vasodentine
+is_obsolete: true
+replaced_by: UBERON:4000106 ! vasodentine
+
+[Term]
+id: VSAO:0000006 ! cell condensation
+is_obsolete: true
+replaced_by: UBERON:0011585 ! cell condensation
+
+[Term]
+id: VSAO:0000096 ! terminally differentiated odontoblast
+is_obsolete: true
+replaced_by: CL:00007013 ! 
+
+[Term]
+id: VSAO:0000059 ! avascular GAG-rich matrix
+is_obsolete: true
+replaced_by: UBERON:4000059 ! avascular GAG-rich matrix
+
+[Term]
+id: VSAO:0005026 ! anterior metapodium
+is_obsolete: true
+replaced_by: UBERON:0010544 ! metacarpus skeleton
+
+[Term]
+id: VSAO:0000090 ! integumentary skeleton
+is_obsolete: true
+replaced_by: UBERON:4000090 ! integumentary skeleton
+
+[Term]
+id: VSAO:0000180 ! process
+is_obsolete: true
+replaced_by: UBERON:0004529 ! anatomical projection
+
+[Term]
+id: VSAO:0000069 ! dentine
+is_obsolete: true
+replaced_by: UBERON:0001751 ! dentine
+
+[Term]
+id: VSAO:0000172 ! lepidotrichium
+is_obsolete: true
+replaced_by: UBERON:4000172 ! lepidotrichium
+
+[Term]
+id: VSAO:0000166 ! anal fin skeleton
+is_obsolete: true
+replaced_by: UBERON:4000166 ! anal fin skeleton
+
+[Term]
+id: VSAO:0000151 ! forelimb skeleton
+is_obsolete: true
+replaced_by: UBERON:0001440 ! forelimb skeleton
+
+[Term]
+id: VSAO:0000125 ! pectoral appendage
+is_obsolete: true
+replaced_by: UBERON:0004710 ! pectoral appendage
+
+[Term]
+id: VSAO:0000030 ! oropharyngeal papilla
+is_obsolete: true
+replaced_by: UBERON:4000030 ! oropharyngeal papilla
+
+[Term]
+id: VSAO:0005054 ! distal tarsal 3
+is_obsolete: true
+replaced_by: UBERON:0001454 ! distal tarsal bone 3
+
+[Term]
+id: VSAO:0000305 ! pectoral girdle region
+is_obsolete: true
+replaced_by: UBERON:0001421 ! pectoral girdle region
+
+[Term]
+id: VSAO:0000001 ! surface structure
+is_obsolete: true
+replaced_by: UBERON:0003102 ! surface structure
+
+[Term]
+id: VSAO:0000054 ! perichordal tissue
+is_obsolete: true
+replaced_by: UBERON:0007862 ! perichordal tissue
+
+[Term]
+id: VSAO:0000023 ! membrane bone
+is_obsolete: true
+replaced_by: UBERON:0007842 ! membrane bone
+
+[Term]
+id: VSAO:0000177 ! dorsal fin lepidotrichium
+is_obsolete: true
+replaced_by: UBERON:4000177 ! dorsal fin lepidotrichium
+
+[Term]
+id: VSAO:0000303 ! appendage girdle region
+is_obsolete: true
+replaced_by: UBERON:0007823 ! appendage girdle region
+
+[Term]
+id: VSAO:0000012 ! skeletogenic cell
+is_obsolete: true
+replaced_by: CL:0007001 ! skeletogenic cell
+
+[Term]
+id: VSAO:0000077 ! non-mineralized chondroid tissue
+is_obsolete: true
+replaced_by: UBERON:4000077 ! non-mineralized chondroid tissue
+
+[Term]
+id: VSAO:0000073 ! tendon
+is_obsolete: true
+replaced_by: UBERON:0000043 ! tendon
+
+[Term]
+id: VSAO:0000144 ! perichondral ossification
+is_obsolete: true
+replaced_by: GO:0036073 ! perichondral ossification
+
+[Term]
+id: VSAO:0000034 ! oropharynx
+is_obsolete: true
+replaced_by: UBERON:0001729 ! oropharynx
+
+[Term]
+id: VSAO:0000018 ! ventral hyoid arch
+is_obsolete: true
+replaced_by: UBERON:0011153 ! ventral hyoid arch skeleton
+
+[Term]
+id: VSAO:0000044 ! prechondroblast
+is_obsolete: true
+replaced_by: CL:0007009 ! prechondroblast
+
+[Term]
+id: VSAO:0000154 ! pelvic fin skeleton
+is_obsolete: true
+replaced_by: UBERON:0010711 ! pelvic fin skeleton
+
+[Term]
+id: VSAO:0000165 ! dorsal fin
+is_obsolete: true
+replaced_by: UBERON:0003097 ! dorsal fin
+
+[Term]
+id: VSAO:0000149 ! pharyngeal arch
+is_obsolete: true
+replaced_by: UBERON:0008895 ! splanchnocranium
+
+[Term]
+id: VSAO:0000171 ! scapular complex
+is_obsolete: true
+replaced_by: UBERON:4000171 ! scapular complex
+
+[Term]
+id: VSAO:0005060 ! shank
+is_obsolete: true
+replaced_by: UBERON:0003823 ! hindlimb zeugopod
+
+[Term]
+id: VSAO:0000145 ! endochondral bone
+is_obsolete: true
+replaced_by: UBERON:0002513 ! endochondral bone
+
+[Term]
+id: VSAO:0000306 ! appendicular skeletal system
+is_obsolete: true
+replaced_by: UBERON:0011249 ! appendicular skeletal system
+
+[Term]
+id: VSAO:0000066 ! pre-enamel
+is_obsolete: true
+replaced_by: UBERON:0011588 ! pre-enamel
+
+[Term]
+id: VSAO:0000091 ! elastic cartilage tissue
+is_obsolete: true
+replaced_by: UBERON:0001996 ! elastic cartilage tissue
+
+[Term]
+id: VSAO:0000053 ! vacuolated notochordal tissue
+is_obsolete: true
+replaced_by: UBERON:4000053 ! vacuolated notochordal tissue
+
+[Term]
+id: VSAO:0000176 ! anal fin lepidotrichium
+is_obsolete: true
+replaced_by: UBERON:4000176 ! anal fin lepidotrichium
+
+[Term]
+id: VSAO:0000067 ! paired appendage
+is_obsolete: true
+replaced_by: UBERON:0004708 ! limb/fin
+
+[Term]
+id: VSAO:0000070 ! elasmoid scale
+is_obsolete: true
+replaced_by: UBERON:4000070 ! elasmoid scale
+
+[Term]
+id: VSAO:0005027 ! posterior metapodium
+is_obsolete: true
+replaced_by: UBERON:0010545 ! metatarsus skeleton
+
+[Term]
+id: VSAO:0000082 ! craniofacial skeleton
+is_obsolete: true
+
+[Term]
+id: VSAO:0000123 ! odontode tissue
+is_obsolete: true
+replaced_by: UBERON:4000123 ! odontode tissue
+
+[Term]
+id: VSAO:0000115 ! mineralized bone tissue
+is_obsolete: true
+replaced_by: UBERON:4000115 ! mineralized bone tissue
+
+[Term]
+id: VSAO:0000071 ! pre-dentine
+is_obsolete: true
+replaced_by: UBERON:0011587 ! pre-dentine
+
+[Term]
+id: VSAO:0005024 ! tarsus
+is_obsolete: true
+replaced_by: UBERON:0009879 ! tarsal skeleton
+
+[Term]
+id: VSAO:0000039 ! chordoblast
+is_obsolete: true
+replaced_by: CL:0007008 ! notochordal vacuole cell
+
+[Term]
+id: VSAO:0005030 ! posterior acropodium
+is_obsolete: true
+replaced_by: UBERON:0010696 ! skeleton of posterior acropodium
+
+[Term]
+id: VSAO:0000062 ! cementum
+is_obsolete: true
+replaced_by: UBERON:0001753 ! cementum
+
+[Term]
+id: VSAO:0000137 ! sesamoid
+is_obsolete: true
+replaced_by: UBERON:0001479 ! sesamoid bone
+
+[Term]
+id: VSAO:0000087 ! cosmine
+is_obsolete: true
+replaced_by: UBERON:4000087 ! cosmine
+
+[Term]
+id: VSAO:0000025 ! odontogenic papilla
+is_obsolete: true
+replaced_by: UBERON:0001763 ! odontogenic papilla
+
+[Term]
+id: VSAO:0000005 ! basihyal element
+is_obsolete: true
+replaced_by: UBERON:0011614 ! basihyal element
+
+[Term]
+id: VSAO:0005048 ! tibiale
+is_obsolete: true
+replaced_by: UBERON:0006836 ! medial tibial tarsal bone
+
+[Term]
+id: VSAO:0000140 ! replacement ossification
+is_obsolete: true
+replaced_by: GO:0036075 ! replacement ossification
+
+[Term]
+id: VSAO:0000008 ! neural crest cell
+is_obsolete: true
+replaced_by: CL:0000333 ! migratory neural crest cell
+
+[Term]
+id: VSAO:0000116 ! terminally differentiated osteoblast
+is_obsolete: true
+replaced_by: CL:0001039 ! terminally differentiated osteoblast
+
+[Term]
+id: VSAO:0000048 ! scale
+is_obsolete: true
+replaced_by: UBERON:0007380 ! dermal scale
+
+[Term]
+id: VSAO:0005069 ! fossa
+is_obsolete: true
+replaced_by: UBERON:0004704 ! bone fossa
+
+[Term]
+id: VSAO:0000181 ! articular system
+is_obsolete: true
+replaced_by: UBERON:0004770 ! articular system
+
+[Term]
+id: VSAO:0000150 ! hindlimb
+is_obsolete: true
+replaced_by: UBERON:0002103 ! hindlimb
+
+[Term]
+id: VSAO:0005047 ! distal carpal 5
+is_obsolete: true
+replaced_by: UBERON:0010739 ! distal carpal bone 5
+
+[Term]
+id: VSAO:0005045 ! distal carpal 3
+is_obsolete: true
+replaced_by: UBERON:0001432 ! distal carpal bone 3
+
+[Term]
+id: VSAO:0000141 ! intramembranous ossification
+is_obsolete: true
+replaced_by: GO:0001957 ! intramembranous ossification
+
+[Term]
+id: VSAO:0000161 ! interclavicle
+is_obsolete: true
+replaced_by: UBERON:0011655 ! interclavicle
+
+[Term]
+id: VSAO:0000175 ! pectoral fin lepidotrichium
+is_obsolete: true
+replaced_by: UBERON:4000175 ! pectoral fin lepidotrichium
+
+[Term]
+id: VSAO:0005023 ! carpus
+is_obsolete: true
+replaced_by: UBERON:0009880 ! carpal skeleton
+
+[Term]
+id: VSAO:0000020 ! mineralized extracellular matrix
+is_obsolete: true
+replaced_by: UBERON:4000020 ! mineralized extracellular matrix
+
+[Term]
+id: VSAO:0005013 ! ulna
+is_obsolete: true
+replaced_by: UBERON:0001424 ! ulna
+
+[Term]
+id: VSAO:0000101 ! joint
+is_obsolete: true
+replaced_by: UBERON:0000982 ! skeletal joint
+
+[Term]
+id: VSAO:0000083 ! craniofacial region
+is_obsolete: true
+
+[Term]
+id: VSAO:0000213 ! pectoral complex
+is_obsolete: true
+replaced_by: UBERON:0010708 ! pectoral complex
+
+[Term]
+id: VSAO:0000013 ! mineralized tissue
+is_obsolete: true
+replaced_by: UBERON:4000013 ! mineralized tissue
+
+[Term]
+id: VSAO:0000029 ! integument
+is_obsolete: true
+replaced_by: UBERON:0002199 ! integument
+
+[Term]
+id: VSAO:0000076 ! appendicular skeleton
+is_obsolete: true
+replaced_by: UBERON:0002091 ! entire appendicular skeleton
+
+[Term]
+id: VSAO:0000035 ! dermal skeleton
+is_obsolete: true
+replaced_by: UBERON:0010364 ! dermal skeleton
+
+[Term]
+id: VSAO:0000024 ! intercalar
+is_obsolete: true
+replaced_by: UBERON:2000474 ! intercalar
+
+[Term]
+id: VSAO:0000133 ! axial ossicle
+is_obsolete: true
+replaced_by: UBERON:0011142 ! axial ossicle
+
+[Term]
+id: VSAO:0000184 ! vertebral element
+is_obsolete: true
+replaced_by: UBERON:0010913 ! vertebral element
+
+[Term]
+id: VSAO:0000072 ! ligament
+is_obsolete: true
+replaced_by: UBERON:0008846 ! skeletal ligament
+
+[Term]
+id: VSAO:0000128 ! skeletal element
+is_obsolete: true
+replaced_by: UBERON:0004765 ! skeletal element
+
+[Term]
+id: VSAO:0000015 ! skeletal tissue
+is_obsolete: true
+replaced_by: UBERON:0004755 ! skeletal tissue
+
+[Term]
+id: VSAO:0005020 ! manus
+is_obsolete: true
+replaced_by: UBERON:0001442 ! skeleton of manus
+
+[Term]
+id: VSAO:0000057 ! bone element
+is_obsolete: true
+replaced_by: UBERON:0001474 ! bone
+
+[Term]
+id: VSAO:0000092 ! chondrogenic condensation
+is_obsolete: true
+replaced_by: UBERON:0005863 ! cartilaginous condensation
+
