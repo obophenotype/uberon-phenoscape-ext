@@ -22,7 +22,6 @@ UBERON:2000090-apical ectodermal ridge dorsal fin		ZFIN
 UBERON:2000093-blastomere		ZFIN
 UBERON:2000096-cardinal system	ZFA:0000010-cardiovascular system	
 UBERON:2000098-proliferative region		
-UBERON:2000106-extension		ZFIN
 UBERON:2000116-macula lagena	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
 UBERON:2000125-mandibular lateral line neuromast	ZFA:0000282-sensory system,ZFA:0000396-nervous system	ZFIN
 UBERON:2000136-otic lateral line neuromast	ZFA:0000282-sensory system,ZFA:0000396-nervous system	ZFIN
@@ -32,32 +31,24 @@ UBERON:2000164-ventral mesenchyme
 UBERON:2000165-inferior lobe	ZFA:0000396-nervous system	
 UBERON:2000168-anterior macula	ZFA:0000282-sensory system,ZFA:0000396-nervous system	ZFIN
 UBERON:2000174-caudal cerebellar tract	ZFA:0000396-nervous system	
-UBERON:2000175-posterior lateral line nerve	ZFA:0000282-sensory system,ZFA:0000396-nervous system	ZFIN
 UBERON:2000177-caudal oblique	ZFA:0000272-respiratory system,ZFA:0000339-digestive system,ZFA:0000548-musculature system	
-UBERON:2000178-caudal peduncle		
 UBERON:2000181-caudal zone of D	ZFA:0000396-nervous system	
 UBERON:2000182-central caudal thalamic nucleus	ZFA:0000396-nervous system	
 UBERON:2000183-central pretectum	ZFA:0000396-nervous system	
 UBERON:2000185-commissura rostral, pars ventralis	ZFA:0000396-nervous system	
-UBERON:2000188-corpus cerebelli	ZFA:0000396-nervous system	
 UBERON:2000193-diffuse nuclei	ZFA:0000396-nervous system	
 UBERON:2000194-dorsal accessory optic nucleus	ZFA:0000396-nervous system	
 UBERON:2000195-dorsal depressor	ZFA:0000548-musculature system	
 UBERON:2000197-dorsal nucleus	ZFA:0000396-nervous system	
 UBERON:2000199-dorsal periventricular hypothalamus	ZFA:0000396-nervous system	
-UBERON:2000201-dorsal transverse	ZFA:0000272-respiratory system,ZFA:0000339-digestive system,ZFA:0000548-musculature system	
 UBERON:2000202-efferent branchial artery	ZFA:0000010-cardiovascular system,ZFA:0000272-respiratory system,ZFA:0000339-digestive system	
-UBERON:2000205-external ventral flexor	ZFA:0000548-musculature system	
 UBERON:2000209-lateral preglomerular nucleus	ZFA:0000396-nervous system	
 UBERON:2000210-gigantocellular part of magnocellular preoptic nucleus	ZFA:0000396-nervous system	
 UBERON:2000211-gill lamella	ZFA:0000272-respiratory system,ZFA:0000339-digestive system	
 UBERON:2000212-granular eminence	ZFA:0000396-nervous system	
 UBERON:2000214-hypobranchial vessel		
-UBERON:2000216-infracarinalis	ZFA:0000548-musculature system	
-UBERON:2000221-internal levator	ZFA:0000272-respiratory system,ZFA:0000339-digestive system,ZFA:0000548-musculature system	
 UBERON:2000222-isthmic primary nucleus	ZFA:0000396-nervous system	
 UBERON:2000225-lateral crista primordium	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
-UBERON:2000230-longitudinal hypochordal	ZFA:0000548-musculature system	
 UBERON:2000232-lateral semicircular canal primordium	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
 UBERON:2000233-lower oral valve	ZFA:0000339-digestive system	
 UBERON:2000234-macula neglecta	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
@@ -69,7 +60,6 @@ UBERON:2000245-nucleus of the descending root	ZFA:0000396-nervous system
 UBERON:2000246-nucleus taeniae	ZFA:0000396-nervous system	
 UBERON:2000248-magnocellular preoptic nucleus	ZFA:0000396-nervous system	
 UBERON:2000256-pars subcommissuralis of V	ZFA:0000396-nervous system	
-UBERON:2000259-mandibular lateral line	ZFA:0000282-sensory system,ZFA:0000396-nervous system	ZFIN
 UBERON:2000261-pharyngohyoid	ZFA:0000272-respiratory system,ZFA:0000339-digestive system,ZFA:0000548-musculature system	
 UBERON:2000265-presumptive dorsal mesoderm		
 UBERON:2000266-pretecto-mamillary tract	ZFA:0000396-nervous system	
@@ -80,11 +70,9 @@ UBERON:2000276-rostrolateral thalamic nucleus of Butler & Saidel	ZFA:0000396-ner
 UBERON:2000278-secondary gustatory nucleus medulla oblongata	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
 UBERON:2000280-medial division	ZFA:0000396-nervous system	
 UBERON:2000281-hair cell posterior macula	ZFA:0000282-sensory system,ZFA:0000396-nervous system	ZFIN
-UBERON:2000283-sternohyoid	ZFA:0000548-musculature system	
 UBERON:2000285-superficial adductor	ZFA:0000548-musculature system	
 UBERON:2000286-superficial lateralis	ZFA:0000548-musculature system	
 UBERON:2000287-superior dorsal flexor	ZFA:0000548-musculature system	
-UBERON:2000288-supracarinalis	ZFA:0000548-musculature system	
 UBERON:2000291-medial octavolateralis nucleus	ZFA:0000396-nervous system	
 UBERON:2000293-synencephalon	ZFA:0000396-nervous system	
 UBERON:2000294-torus lateralis	ZFA:0000396-nervous system	
@@ -95,11 +83,9 @@ UBERON:2000302-ventral nucleus	ZFA:0000396-nervous system
 UBERON:2000305-ventral sulcus	ZFA:0000396-nervous system	
 UBERON:2000307-vestibulolateralis lobe	ZFA:0000396-nervous system	
 UBERON:2000309-E-YSL		ZFIN
-UBERON:2000311-adductor mandibulae complex	ZFA:0000548-musculature system	
 UBERON:2000313-anal inclinator	ZFA:0000548-musculature system	
 UBERON:2000315-asteriscus	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
 UBERON:2000318-brain stem/spinal tract and commissures	ZFA:0000396-nervous system	
-UBERON:2000319-branchiostegal membrane	ZFA:0000272-respiratory system,ZFA:0000339-digestive system	
 UBERON:2000321-caudal levator	ZFA:0000272-respiratory system,ZFA:0000339-digestive system,ZFA:0000548-musculature system	
 UBERON:2000322-caudal octaval nucleus	ZFA:0000396-nervous system	
 UBERON:2000324-caudal periventricular hypothalamus	ZFA:0000396-nervous system	
@@ -107,10 +93,8 @@ UBERON:2000331-commissure infima of Haller	ZFA:0000396-nervous system
 UBERON:2000335-crossed tecto-bulbar tract	ZFA:0000396-nervous system	
 UBERON:2000340-dorsal entopeduncular nucleus	ZFA:0000396-nervous system	
 UBERON:2000341-dorsal flexor	ZFA:0000548-musculature system	
-UBERON:2000342-dorsal inclinator	ZFA:0000548-musculature system	
 UBERON:2000343-dorsal nucleus of V	ZFA:0000396-nervous system	
 UBERON:2000347-dorsal zone	ZFA:0000396-nervous system	
-UBERON:2000349-epaxialis	ZFA:0000548-musculature system	
 UBERON:2000352-external cellular layer	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
 UBERON:2000358-granular layer corpus cerebelli	ZFA:0000396-nervous system	
 UBERON:2000362-hypaxialis	ZFA:0000548-musculature system	
@@ -118,7 +102,6 @@ UBERON:2000371-internal pharyngoclavicularis	ZFA:0000272-respiratory system,ZFA:
 UBERON:2000372-interpeduncular nucleus medulla oblongata	ZFA:0000396-nervous system	
 UBERON:2000379-lateral forebrain bundle diencephalon	ZFA:0000396-nervous system	
 UBERON:2000381-lateral line sensory nuclei	ZFA:0000396-nervous system	
-UBERON:2000384-levator arcus palatini	ZFA:0000548-musculature system	
 UBERON:2000388-medial caudal lobe	ZFA:0000396-nervous system	
 UBERON:2000389-medial funicular nucleus medulla oblongata	ZFA:0000396-nervous system	
 UBERON:2000390-medial preglomerular nucleus	ZFA:0000396-nervous system	
@@ -137,7 +120,6 @@ UBERON:2000411-posterior crista primordium	ZFA:0000282-sensory system,ZFA:000039
 UBERON:2000412-posterior semicircular canal primordium	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
 UBERON:2000414-presumptive cephalic mesoderm		
 UBERON:2000424-opercular lateral line	ZFA:0000282-sensory system,ZFA:0000396-nervous system	ZFIN
-UBERON:2000425-anterior lateral line nerve	ZFA:0000282-sensory system,ZFA:0000396-nervous system	ZFIN
 UBERON:2000426-rostral parvocellular preoptic nucleus	ZFA:0000396-nervous system	
 UBERON:2000430-secondary gustatory tract	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
 UBERON:2000439-superficial pelvic abductor	ZFA:0000548-musculature system	
@@ -149,8 +131,6 @@ UBERON:2000454-ventral accessory optic nucleus	ZFA:0000396-nervous system
 UBERON:2000455-ventral flexor	ZFA:0000548-musculature system	
 UBERON:2000456-ventral nucleus of V	ZFA:0000396-nervous system	
 UBERON:2000459-ventromedial thalamic nucleus	ZFA:0000396-nervous system	
-UBERON:2000462-abductor hyohyoid	ZFA:0000548-musculature system	
-UBERON:2000464-otic lateral line	ZFA:0000282-sensory system,ZFA:0000396-nervous system	ZFIN
 UBERON:2000465-adductor operculi	ZFA:0000548-musculature system	
 UBERON:2000466-anal depressor	ZFA:0000548-musculature system	
 UBERON:2000468-anterior crista primordium	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
@@ -164,27 +144,16 @@ UBERON:2000484-celiacomesenteric artery	ZFA:0000010-cardiovascular system
 UBERON:2000485-central nucleus inferior lobe	ZFA:0000396-nervous system	
 UBERON:2000487-central zone of D	ZFA:0000396-nervous system	
 UBERON:2000491-commissure of the caudal tuberculum	ZFA:0000396-nervous system	
-UBERON:2000492-coracoradialis	ZFA:0000548-musculature system	
 UBERON:2000493-decussation of medial funicular nucleus	ZFA:0000396-nervous system	
 UBERON:2000497-pelvic adductor profundus	ZFA:0000548-musculature system	
-UBERON:2000498-dilator operculi	ZFA:0000548-musculature system	
-UBERON:2000499-dorsal arrector	ZFA:0000548-musculature system	
-UBERON:2000500-dorsal erector	ZFA:0000548-musculature system	
 UBERON:2000502-dorsal motor nucleus trigeminal nerve	ZFA:0000396-nervous system	
-UBERON:2000503-dorsal oblique branchial muscle	ZFA:0000272-respiratory system,ZFA:0000339-digestive system,ZFA:0000548-musculature system	
 UBERON:2000504-dorsal retractor	ZFA:0000272-respiratory system,ZFA:0000339-digestive system,ZFA:0000548-musculature system	
 UBERON:2000506-dorsal zone of D	ZFA:0000396-nervous system	
-UBERON:2000510-external levatores	ZFA:0000272-respiratory system,ZFA:0000339-digestive system,ZFA:0000548-musculature system	
-UBERON:2000512-facial lobe	ZFA:0000396-nervous system	
 UBERON:2000513-fast muscle cell somite 1	ZFA:0000548-musculature system	
 UBERON:2000516-periventricular grey zone	ZFA:0000396-nervous system	
 UBERON:2000517-glossopharyngeal lobe	ZFA:0000396-nervous system	
 UBERON:2000520-horizontal commissure	ZFA:0000396-nervous system	
-UBERON:2000522-inferior hyohyoid	ZFA:0000548-musculature system	
 UBERON:2000523-inferior reticular formation	ZFA:0000396-nervous system	
-UBERON:2000528-interradialis	ZFA:0000548-musculature system	
-UBERON:2000530-lapillus	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
-UBERON:2000532-lateral division	ZFA:0000396-nervous system	
 UBERON:2000534-lateral longitudinal fasciculus	ZFA:0000396-nervous system	
 UBERON:2000536-lateral zone of D	ZFA:0000396-nervous system	
 UBERON:2000540-magnocellular octaval nucleus	ZFA:0000396-nervous system	
@@ -212,9 +181,6 @@ UBERON:2000609-ventrolateral nucleus	ZFA:0000396-nervous system
 UBERON:2000610-vertical myoseptum	ZFA:0000548-musculature system	ZFIN
 UBERON:2000611-visceromotor column	ZFA:0000396-nervous system	
 UBERON:2000614-abductor profundus	ZFA:0000548-musculature system	
-UBERON:2000615-adductor arcus palatini	ZFA:0000548-musculature system	
-UBERON:2000616-adductor profundus	ZFA:0000548-musculature system	
-UBERON:2000617-anal erector	ZFA:0000548-musculature system	
 UBERON:2000618-ansulate commissure	ZFA:0000396-nervous system	
 UBERON:2000624-brachium conjunctivum		
 UBERON:2000626-bulbo-spinal tract	ZFA:0000396-nervous system	
@@ -227,26 +193,21 @@ UBERON:2000638-commissura rostral, pars dorsalis	ZFA:0000396-nervous system
 UBERON:2000639-commissure of the secondary gustatory nuclei	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
 UBERON:2000642-decussation of the medial octavolateralis nucleus	ZFA:0000396-nervous system	
 UBERON:2000643-rostral cerebellar tract	ZFA:0000396-nervous system	
-UBERON:2000644-dental plate		
 UBERON:2000645-descending octaval nucleus	ZFA:0000396-nervous system	
 UBERON:2000647-dorsal caudal thalamic nucleus	ZFA:0000396-nervous system	
 UBERON:2000651-dorsal pelvic arrector	ZFA:0000548-musculature system	
 UBERON:2000654-rostral motor nucleus	ZFA:0000396-nervous system	
 UBERON:2000655-dorsomedial optic tract	ZFA:0000396-nervous system	
-UBERON:2000662-external pharyngoclavicularis	ZFA:0000272-respiratory system,ZFA:0000339-digestive system,ZFA:0000548-musculature system	
 UBERON:2000666-filamental artery	ZFA:0000010-cardiovascular system,ZFA:0000272-respiratory system,ZFA:0000339-digestive system	
 UBERON:2000673-hypobranchial artery	ZFA:0000010-cardiovascular system	ZFIN
 UBERON:2000676-sagitta	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
 UBERON:2000677-segmental intercostal artery	ZFA:0000010-cardiovascular system	
 UBERON:2000678-hair cell anterior macula	ZFA:0000282-sensory system,ZFA:0000396-nervous system	ZFIN
-UBERON:2000685-superficial abductor	ZFA:0000548-musculature system	
 UBERON:2000687-superficial pretectum	ZFA:0000396-nervous system	
 UBERON:2000688-olfactory support cell	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
 UBERON:2000689-supracommissural nucleus of V	ZFA:0000396-nervous system	
-UBERON:2000690-supraoptic commissure	ZFA:0000396-nervous system	
 UBERON:2000693-tangential nucleus	ZFA:0000396-nervous system	
 UBERON:2000695-labial cavities	ZFA:0000339-digestive system	
-UBERON:2000701-ventral arrector	ZFA:0000548-musculature system	
 UBERON:2000703-ventral motor nucleus trigeminal nerve	ZFA:0000396-nervous system	
 UBERON:2000704-ventral pelvic arrector	ZFA:0000548-musculature system	
 UBERON:2000707-ventral zone	ZFA:0000396-nervous system	
@@ -528,14 +489,12 @@ UBERON:2001069-ventral fin fold
 UBERON:2001073-axial vasculature	ZFA:0000010-cardiovascular system	
 UBERON:2001076-intestinal bulb	ZFA:0000339-digestive system	ZFIN
 UBERON:2001086-muscle pioneer	ZFA:0000548-musculature system	
-UBERON:2001089-myoseptum	ZFA:0000548-musculature system	
 UBERON:2001095-immature macula	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
 UBERON:2001096-immature anterior macula	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
 UBERON:2001097-immature posterior macula	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
 UBERON:2001098-immature hair cell anterior macula	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
 UBERON:2001099-immature hair cell posterior macula	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
 UBERON:2001109-oocyte	ZFA:0000632-reproductive system,ZFA:0001158-endocrine system	
-UBERON:2001118-urogenital papilla	ZFA:0000632-reproductive system	ZFIN
 UBERON:2001125-organizer inducing center		ZFIN
 UBERON:2001126-noninvoluting endocytic marginal cell cluster		ZFIN
 UBERON:2001129-pharyngeal pouches 2-6	ZFA:0000339-digestive system	
@@ -555,8 +514,6 @@ UBERON:2001263-ovarian follicle stage I	ZFA:0000632-reproductive system,ZFA:0001
 UBERON:2001265-ovarian follicle stage II	ZFA:0000632-reproductive system,ZFA:0001158-endocrine system	ZFIN
 UBERON:2001266-ovarian follicle stage III	ZFA:0000632-reproductive system,ZFA:0001158-endocrine system	ZFIN
 UBERON:2001269-regenerating fin		
-UBERON:2001277-anterior chamber swim bladder	ZFA:0000339-digestive system	ZFIN
-UBERON:2001278-posterior chamber swim bladder	ZFA:0000339-digestive system	ZFIN
 UBERON:2001285-intersegmental vessel	ZFA:0000010-cardiovascular system	
 UBERON:2001286-caudal vein plexus	ZFA:0000010-cardiovascular system	
 UBERON:2001293-posterior kidney	ZFA:0000163-renal system,ZFA:0001159-immune system	
@@ -569,7 +526,6 @@ UBERON:2001303-vagal ganglion 2	ZFA:0000396-nervous system
 UBERON:2001304-vagal ganglion 3	ZFA:0000396-nervous system	
 UBERON:2001305-vagal ganglion 4	ZFA:0000396-nervous system	
 UBERON:2001312-dorsal anterior lateral line ganglion	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
-UBERON:2001313-ventral anterior lateral line ganglion	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
 UBERON:2001314-posterior lateral line ganglion	ZFA:0000282-sensory system,ZFA:0000396-nervous system	ZFIN
 UBERON:2001322-dorsoventral diencephalic tract	ZFA:0000396-nervous system	ZFIN
 UBERON:2001324-enteric musculature	ZFA:0000339-digestive system,ZFA:0000548-musculature system	
@@ -593,15 +549,11 @@ UBERON:2001378-axial hypoblast
 UBERON:2001379-pharyngeal ectoderm	ZFA:0000339-digestive system	
 UBERON:2001388-epithelial mesenchymal boundary		
 UBERON:2001389-regeneration epithelium		
-UBERON:2001426-posterior naris	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
-UBERON:2001427-anterior naris	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
-UBERON:2001428-olfactory rosette	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
 UBERON:2001430-pneumatic duct	ZFA:0000339-digestive system	ZFIN
 UBERON:2001431-primitive olfactory epithelium	ZFA:0000282-sensory system,ZFA:0000396-nervous system	
 UBERON:2001437-ductus communicans	ZFA:0000339-digestive system	ZFIN
 UBERON:2001450-apical ectodermal ridge pelvic fin		ZFIN
 UBERON:2001462-somite border		
-UBERON:2001463-melanophore stripe		
 UBERON:2001467-pharyngeal mesoderm	ZFA:0000339-digestive system	
 UBERON:2001472-anterior lateral line neuromast	ZFA:0000282-sensory system,ZFA:0000396-nervous system	ZFIN
 UBERON:2001473-deep blastomere		ZFIN
@@ -617,9 +569,7 @@ UBERON:2001568-oocyte stage IV	ZFA:0000632-reproductive system,ZFA:0001158-endoc
 UBERON:2001569-oocyte stage V	ZFA:0000632-reproductive system,ZFA:0001158-endocrine system	
 UBERON:2001570-unfertilized egg	ZFA:0000632-reproductive system,ZFA:0001158-endocrine system	
 UBERON:2001571-postovulatory follicle	ZFA:0000632-reproductive system,ZFA:0001158-endocrine system	
-UBERON:2001974-subtemporal fossa		
 UBERON:2002090-pro-otic fossa		
-UBERON:2002111-prootic bulla		
 UBERON:2002141-annular ligament	ZFA:0000282-sensory system,ZFA:0000396-nervous system	ZFA
 UBERON:2002144-anterior catecholaminergic tract	ZFA:0000396-nervous system	ZFIN
 UBERON:2002145-anterior swim bladder bud	ZFA:0000339-digestive system	ZFIN
@@ -633,7 +583,6 @@ UBERON:2002180-central nucleus of ventral telencephalon	ZFA:0000396-nervous syst
 UBERON:2002185-climbing fiber	ZFA:0000396-nervous system	ISBN,ZFIN
 UBERON:2002192-dorsolateral motor nucleus of vagal nerve	ZFA:0000396-nervous system	ZFIN
 UBERON:2002193-dorsolateral septum	ZFA:0000282-sensory system,ZFA:0000396-nervous system	ZFIN
-UBERON:2002195-epidermal placode		ZFIN
 UBERON:2002199-hindbrain commissure	ZFA:0000396-nervous system	ZFIN
 UBERON:2002200-hypobranchial muscle	ZFA:0000548-musculature system	ZFIN
 UBERON:2002202-intermediate nucleus	ZFA:0000396-nervous system	ZFIN
@@ -667,7 +616,6 @@ UBERON:2002289-UBERON:0001773	ZFA:0000282-sensory system,ZFA:0000396-nervous sys
 UBERON:2002290-vitreous	ZFA:0000282-sensory system,ZFA:0000396-nervous system	PMID
 UBERON:2005000-basal communicating artery	ZFA:0000010-cardiovascular system	
 UBERON:2005010-mid cerebral vein	ZFA:0000010-cardiovascular system	ZFIN
-UBERON:2005011-pseudobranchial artery	ZFA:0000010-cardiovascular system	ZFIN
 UBERON:2005012-afferent filamental artery	ZFA:0000010-cardiovascular system,ZFA:0000272-respiratory system,ZFA:0000339-digestive system	
 UBERON:2005013-concurrent branch afferent branchial artery	ZFA:0000010-cardiovascular system,ZFA:0000272-respiratory system,ZFA:0000339-digestive system	ZFIN
 UBERON:2005014-recurrent branch afferent branchial artery	ZFA:0000010-cardiovascular system,ZFA:0000272-respiratory system,ZFA:0000339-digestive system	ZFIN
