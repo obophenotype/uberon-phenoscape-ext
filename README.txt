@@ -46,6 +46,17 @@ At first, there may be a number of bold terms that need obsoleting and replacing
 5. Add an annotation property "term replaced by". Navigate to the term by clicking on the "entity IRI" and either browse or control F to find the term that is replacing the one being obsoleted.
 
 
+ABOUT DEFINITION CITATIONS AND DBXREFS
+---------------
+In order to properly display definition sources, you should add citations to the end of the definition text (make sure string is chosen in the bottom left type selector). Some examples include:
+definition "Paired long bones of endochondral origin that extend from the pectoral girdle to the elbows[AAO, modified]."^^string
+definition "The major postaxial endochondral bone in the posterior zeugopod[Phenoscape]."^^string
+definition "Paired cartilaginous element forming the posterior portion of the pelvic girdle. [D.F. Markle, BULLETIN OF MARINE SCIENCE. 30(1): 45-53. 1980]"^^string
+definition "A midventral endochondral skeletal element which represents the origin site of the pectoral muscles[PHENOSCAPE:ad]."^^string
+
+Note that this is *different* than making a dbxref. The dbxref field should be used only for xref to another ontology class, database ID, or URL. dbxrefs can be made on the definition as an annotation on the definition or on the class directly, depending on the nature of the xref. To make an annotation on the definition, click the little "a" symbol (this works similarly on any axiom or annotation).
+
+
 SAVING and COMMITTING
 ---------------
 
