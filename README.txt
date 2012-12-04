@@ -21,6 +21,8 @@ Always start by doing:
 
 Then, open the file phenoscape-ext.owl in Protege
 
+NOTE: If you get an error in the opening that says "org.xml.sax.SAXParseException: XML document structures must start and end within the same entity." this is an error in reading the core uberon file from SourceForge. Don't worry about it, just simply wait a few minutes and try again with a fresh opening of Protege.
+
 Switch on the Elk reasoner. If you are making changes, be sure to
 synchronize the reasoner.
 
@@ -39,11 +41,13 @@ At first, there may be a number of bold terms that need obsoleting and replacing
 
 2. Relabel the class as "obsolete your old term label here". 
 
-3. Add an annotation property, "deprecated", write "true" in the box and make the type boolean.
+3. Add an annotation property, "deprecated", write "true" in the box and make the type boolean. You should see the class crossed out after you do this. If you don't, it is probably because you haven't marked the type as boolean.
 
 4. Delete subClassOf axioms by clicking on the x to the right of the axioms. If there are equivalence axioms, you may wish to consult with an expert to make sure the axioms are retained properly in the file.
 
 5. Add an annotation property "term replaced by". Navigate to the term by clicking on the "entity IRI" and either browse or control F to find the term that is replacing the one being obsoleted.
+
+6. You may wish to add a comment regarding the reason for obsolescence or so as to include reference to why the term was replaced with whatever is indicated. If you do this, please ensure to add to any exisiting comments rather than adding a new COMMENT. There can be only one COMMENT in obo format and Jenkins will throw an error. 
 
 
 ABOUT DEFINITION CITATIONS AND DBXREFS
