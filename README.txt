@@ -101,13 +101,13 @@ CHECKLIST
 Always synchronize the reasoner before committing. Did your changes
 introduce unsatisfiable classes? If so, investigate them.
 
-For any classes you ahve created, are they in your ID range? Did you
-add text definitions, adding provenance information?
+For any classes you have created, are they in your ID range? Did you
+add text definitions, adding provenance information? Is the reasoner finding unintended inferred equivalent classes? Subclasses? 
 
 Check the jenkins report after your commits. This should alert you to
 any of the following:
 
- * consistency problems with anaotomy ontologies
+ * consistency problems with anatomy ontologies
  * consistency problems with other ontologies
  * violation of obo-format (e.g. two labels for a class; two text
    definitions; etc)
