@@ -1,7 +1,6 @@
 How was phenotype-ext.owl created?
 ----------------------------------
 
-
 Phenotype-ext contains:
 
 * an owl:imports axiom to uberon/merged
