@@ -21293,7 +21293,7 @@ AnnotationAssertion(Annotation(<http://www.geneontology.org/formats/oboInOwl#has
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/UBERON_4000138> "ligamentous replacement element"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/UBERON_4000138> <http://purl.obolibrary.org/obo/UBERON_0010522>)
 Declaration(Class(<http://purl.obolibrary.org/obo/UBERON_4000140>))
-AnnotationAssertion(Annotation(<http://www.geneontology.org/formats/oboInOwl#hasDbXref> "UBERON:4000140"^^xsd:string) <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/UBERON_4000140> "indirect ossification"^^xsd:string)
+AnnotationAssertion(Annotation(<http://www.geneontology.org/formats/oboInOwl#hasDbXref> "VSAO:0000140"^^xsd:string) <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/UBERON_4000140> "indirect ossification"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/UBERON_4000140> "obsolete replacement ossification"^^xsd:string)
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://purl.obolibrary.org/obo/UBERON_4000140> "vertebrate_skeletal_anatomy_curators"^^xsd:string)
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://purl.obolibrary.org/obo/UBERON_4000140> "uberon/phenoscape-anatomy"^^xsd:string)
