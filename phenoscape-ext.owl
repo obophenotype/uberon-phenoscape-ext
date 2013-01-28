@@ -22057,7 +22057,7 @@ AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <h
 SubClassOf(<http://purl.obolibrary.org/obo/UBERON_4200099> <http://purl.obolibrary.org/obo/UBERON_2000663>)
 Declaration(Class(<http://purl.obolibrary.org/obo/UBERON_4200100>))
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/UBERON_4200100> "A bony process on the dorsal side of the proximal region of the humerus which corresponds to the insertion site of the Latissimus dorsi muscle. "^^xsd:string)
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/UBERON_4200100> "AD"^^xsd:string)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://purl.obolibrary.org/obo/UBERON_4200100> "AD"^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/UBERON_4200100> "latissimus dorsi process"@en)
 SubClassOf(<http://purl.obolibrary.org/obo/UBERON_4200100> <http://purl.obolibrary.org/obo/UBERON_0004529>)
 Declaration(Class(<http://purl.obolibrary.org/obo/UBERON_4400000>))
