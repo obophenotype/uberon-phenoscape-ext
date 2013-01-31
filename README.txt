@@ -12,6 +12,14 @@ own range. Note that if you edit multiple files, you need to check this every ti
 
 (You can ignore this if you do not intend to create new classes)
 
+Get Jim's awesome obsolescence plugin here:
+https://github.com/balhoff/obo-actions/downloads
+To add plugins to Protege, navigate to the application, open the application contents, navigate to contents/Resources/Java/plugins and put the jar file in there. Your plugin should be installed next time you start protege.
+
+Get Elk here:
+http://code.google.com/p/elk-reasoner/downloads/list
+perform same operation as above to install.
+
 GETTING STARTED
 ---------------
 
@@ -23,7 +31,7 @@ Then, open the file phenoscape-ext.owl in Protege
 
 NOTE: If you get an error in the opening that says "org.xml.sax.SAXParseException: XML document structures must start and end within the same entity." this is an error in reading the core uberon file from SourceForge. Don't worry about it, just simply wait a few minutes and try again with a fresh opening of Protege.
 
-Switch on the Elk reasoner. If you are making changes, be sure to
+Switch on the Elk reasoner (see how to get plugins above). If you are making changes, be sure to
 synchronize the reasoner.
 
 You have access rights to any classes that are highlighted in bold
@@ -39,16 +47,17 @@ At first, there may be a number of bold terms that need obsoleting and replacing
 
 1. Find the bold class you wish to obsolete, and compare it with the class you wish to replace it with. You need to check that both the text definition and the logical axioms have the same intent, and that nothing desired is lost in the obsolescence.
 
-2. Relabel the class as "obsolete your old term label here". 
+2. Copy any subClass axioms that you intend to keep for historical purposes (e.g. those that are not replicated on the target class) into a comment annotation property. If you do this, please ensure to add to any exisiting comments rather than adding a new COMMENT. There can be only one COMMENT in obo format and Jenkins will throw an error. If there are equivalence axioms, you may wish to consult with an expert to make sure the axioms are retained properly in the file.
 
-3. Add an annotation property, "deprecated", write "true" in the box and make the type boolean. You should see the class crossed out after you do this. If you don't, it is probably because you haven't marked the type as boolean.
+3. Go to the obsolescenc plugin by going to the edit menu and scroll to the bottom, to "Make Entity Obsolete". This will perform the following for you:
+	Relabel the class as "obsolete your old term label here". 
+	Add an annotation property, "deprecated", value "true", of type "boolean". 
+	Delete subClassOf axioms
+You should see the class crossed out after you do this. 
 
-4. Delete subClassOf axioms by clicking on the x to the right of the axioms. If there are equivalence axioms, you may wish to consult with an expert to make sure the axioms are retained properly in the file.
+4. Add an annotation property "term replaced by". Navigate to the term by clicking on the "entity IRI" and either browse or control F to find the term that is replacing the one being obsoleted.
 
-5. Add an annotation property "term replaced by". Navigate to the term by clicking on the "entity IRI" and either browse or control F to find the term that is replacing the one being obsoleted.
-
-6. You may wish to add a comment regarding the reason for obsolescence or so as to include reference to why the term was replaced with whatever is indicated. If you do this, please ensure to add to any exisiting comments rather than adding a new COMMENT. There can be only one COMMENT in obo format and Jenkins will throw an error. 
-
+6. You may wish to add a comment regarding the reason for obsolescence or so as to include reference to why the term was replaced with whatever is indicated. Again, do not add more than one comment annotation on a class.
 
 ABOUT DEFINITION CITATIONS AND DBXREFS
 ---------------
@@ -67,10 +76,12 @@ SAVING and COMMITTING
 Save and commit regularly. Always describe the changes you have made
 at a high level in the svn commit messages. It is a good idea to type
 "svn diff" before committing (although the output can be hard to
-decipher).
+decipher, it can sometimes show you egregious errors, sometimes Protege's fault).
 
 **Important: make sure you save in functional syntax, using the same
-  prefixes as in the source file. This SHOULD be automatic.
+  prefixes as in the source file. This SHOULD be automatic (but Protege sometimes gets it wrong - one reason to do the diff).
+  
+**Important: there is currently a bug in Protege that is being investigated (well, there are many, but this one concerns editing ext). If protege asks you to name your merged file when you save and gives you no other option, DON'T DO IT. Quit Protege and start over. You will lose your work - another reason to save and commit in small increments. 
 
 Example session from view of command line:
 
@@ -86,14 +97,15 @@ Example session from view of command line:
   svn update
 
 It is always a good idea to svn update immediately after an svn
-commit. If there are changes, Protege will ask you to reload.
+commit. If there are changes, Protege will ask you to reload. You may wish not to trust the reload and simply reopen Protege.
 
 After an svn commit, Jenkins will check your changes to make sure they
 conform to guidelines and do not introduce any inconsistencies - an
-email will be sent to the curators list [TODO - decide if this is
-desirable].
+email will be sent to the curators list.
 
+You can check on the build here:
   http://build.berkeleybop.org/job/build-phenoscape/
+Check for errors in the report, send an email to phenoscape curators if you cannot determine what the error is.
 
 CHECKLIST
 ---------
