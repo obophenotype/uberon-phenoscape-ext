@@ -22298,7 +22298,7 @@ AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/UBERON_4300004> "
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/UBERON_4300004> "A continuous flap of skin with scales implanted in pockets or invaginations. [Baldwin, CC and Johnson GD. 1996. Interrelationships of Aulopiformes. Pages 355-404 in MLJ Stiassny, LR Parenti, and DG Johnson, (eds.), Interrelationships of fishes. Academic Press, San Diego, CA.]"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/UBERON_4300004> <http://purl.obolibrary.org/obo/UBERON_2001951>)
 Declaration(Class(<http://purl.obolibrary.org/obo/UBERON_4300005>))
-AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/UBERON_4300005> "WD"^^xsd:string)
+AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://purl.obolibrary.org/obo/UBERON_4300005> "WD"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/UBERON_4300005> "The space in the pupil, which is not occupied by the lens. A rostral aphakic space may enhance the forward binocular field of vision. [Dictionary of Ichthyology http://www.briancoad.com/Dictionary/Introduction%20and%20A-F.htm]. "^^xsd:string)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/UBERON_4300005> "aphakic space"@en)
 SubClassOf(<http://purl.obolibrary.org/obo/UBERON_4300005> <http://purl.obolibrary.org/obo/UBERON_0000464>)
