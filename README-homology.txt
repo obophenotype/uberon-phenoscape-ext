@@ -37,6 +37,9 @@ You should try and attach evidence/provenance. These are normal axiom
 annotations, as in standard ontology editing. Click on the '@'. Use
 "source" to indicate the source.
 
+Note that a small number of homology assertions are stored in core,
+where they cannot be edited.
+
 Downstream querying
 -------------------
 
