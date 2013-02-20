@@ -7989,7 +7989,7 @@ replaced_by: UBERON:2001636 ! pharyngobranchial 4 bone
 [Term]
 id: TAO:0001637 ! replacement bone
 is_obsolete: true
-replaced_by: UBERON:0004763 ! endochondral bone tissue
+replaced_by: UBERON:0012075 ! replacement bone
 
 [Term]
 id: TAO:0001638 ! perichondral bone
@@ -8210,7 +8210,6 @@ replaced_by: UBERON:2001681 ! cornu mesial process
 id: TAO:0001682 ! ligament
 is_obsolete: true
 replaced_by: UBERON:0000211 ! ligament
-replaced_by: UBERON:0008846 ! skeletal ligament
 
 [Term]
 id: TAO:0001683 ! transcapular ligament
