@@ -4,8 +4,13 @@ Prefix(xml:=<http://www.w3.org/XML/1998/namespace>)
 Prefix(xsd:=<http://www.w3.org/2001/XMLSchema#>)
 Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
 
+
 Ontology(<http://purl.obolibrary.org/obo/uberon/homology.owl>
 Import(<http://purl.obolibrary.org/obo/uberon/phenoscape-ext.owl>)
-
 Annotation(<http://www.geneontology.org/formats/oboInOwl#remark> "Homology Assertions"^^xsd:string)
+
+SubClassOf(Annotation(<http://www.geneontology.org/formats/oboInOwl#source> "Duboule") <http://purl.obolibrary.obo/obo/UBERON_1500006> ObjectComplementOf(ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0002158> <http://purl.obolibrary.org/obo/UBERON_0002544>)))
+SubClassOf(Annotation(<http://www.geneontology.org/formats/oboInOwl#source> "Shubin") <http://purl.obolibrary.obo/obo/UBERON_1500006> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0002158> <http://purl.obolibrary.org/obo/UBERON_0002544>))
+SubClassOf(Annotation(<http://www.geneontology.org/formats/oboInOwl#evidence> "Gene Expression") Annotation(<http://www.geneontology.org/formats/oboInOwl#source> "Wang et al") <http://purl.obolibrary.org/obo/UBERON_0012260> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0002159> <http://purl.obolibrary.org/obo/UBERON_0003631>))
+SubClassOf(Annotation(<http://www.geneontology.org/formats/oboInOwl#source> "RCN 2012 mtg file") <http://purl.obolibrary.org/obo/UBERON_4400000> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/RO_0002158> <http://purl.obolibrary.org/obo/UBERON_0011583>))
 )
