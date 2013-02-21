@@ -1,0 +1,14 @@
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX obo: <http://purl.obolibrary.org/obo/>
+
+SELECT DISTINCT
+ ?c ?label ?d (GROUP_CONCAT(?super) AS ?supers)  (GROUP_CONCAT(?superLabel; separator=",") AS ?superLabels)
+WHERE
+{
+ ?c rdfs:label ?label .
+ OPTIONAL { ?c obo:IAO_0000115 ?d }
+ ?c rdfs:subClassOf ?super .
+ ?super rdfs:label ?superLabel .
+}
+GROUP BY ?c ?label ?d
