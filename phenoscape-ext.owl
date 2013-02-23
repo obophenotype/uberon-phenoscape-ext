@@ -19619,7 +19619,7 @@ AnnotationAssertion(<http://purl.obolibrary.org/obo/uberon/phenoscape-anatomy#pr
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/UBERON_3010559> "retroarticular process of the palatoquadrate"^^xsd:string)
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#hasOBONamespace> <http://purl.obolibrary.org/obo/UBERON_3010559> "uberon/phenoscape-anatomy"^^xsd:string)
 SubClassOf(<http://purl.obolibrary.org/obo/UBERON_3010559> <http://purl.obolibrary.org/obo/UBERON_0004529>)
-SubClassOf(<http://purl.obolibrary.org/obo/UBERON_3010559> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000050> <http://purl.obolibrary.org/obo/UBERON_3001000>))
+SubClassOf(<http://purl.obolibrary.org/obo/UBERON_3010559> ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/BFO_0000050> <http://purl.obolibrary.org/obo/UBERON_4200139>))
 Declaration(Class(<http://purl.obolibrary.org/obo/UBERON_3010560>))
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#created_by> <http://purl.obolibrary.org/obo/UBERON_3010560> "amphibian_anatomy_curators"^^xsd:string)
 AnnotationAssertion(<http://purl.obolibrary.org/obo/uberon/phenoscape-anatomy#provenance_notes> <http://purl.obolibrary.org/obo/UBERON_3010560> "This class was sourced from an external ontology (amphibian_anatomy). Its definitions, naming conventions and relationships may need to be checked for compatibility with uberon"^^xsd:string)
