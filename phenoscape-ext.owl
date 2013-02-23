@@ -8,10 +8,12 @@ Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
 Ontology(<http://purl.obolibrary.org/obo/uberon/phenoscape-ext.owl>
 Import(<http://purl.obolibrary.org/obo/uberon/merged.owl>)
 Import(<http://purl.obolibrary.org/obo/uberon/references/references.owl>)
+Annotation(<http://purl.org/dc/elements/1.1/title> "uberon with extensions"^^xsd:anyURI)
 Annotation(<http://www.geneontology.org/formats/oboInOwl#remark> "aggregates TAO from 09:08:2012"^^xsd:string)
+Annotation(<http://xmlns.com/foaf/0.1/homepage> "http://uberon.org"^^xsd:anyURI)
 Annotation(<http://www.geneontology.org/formats/oboInOwl#remark> "This ontology is an aggregate of Uberon and leaf nodes from various ontologies"^^xsd:string)
-Annotation(<http://www.geneontology.org/formats/oboInOwl#remark> "aggregates AAO from 13:04:2012"^^xsd:string)
 Annotation(<http://xmlns.com/foaf/0.1/homepage> "http://phenoscape.org/wiki/Ontologies"^^xsd:anyURI)
+Annotation(<http://www.geneontology.org/formats/oboInOwl#remark> "aggregates AAO from 13:04:2012"^^xsd:string)
 Annotation(<http://www.geneontology.org/formats/oboInOwl#remark> "aggregates VSAO from 16:07:2012"^^xsd:string)
 
 Declaration(Class(<http://purl.obolibrary.obo/obo/UBERON_1500000>))
