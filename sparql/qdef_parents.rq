@@ -3,7 +3,7 @@ PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX obo: <http://purl.obolibrary.org/obo/>
 
 SELECT DISTINCT
- ?c ?label ?d (GROUP_CONCAT(?super) AS ?supers)  (GROUP_CONCAT(?superLabel; separator=",") AS ?superLabels)
+ ?c (STR(?label) AS ?term_label) (STR(?d) AS ?definition) (GROUP_CONCAT(?super) AS ?supers)  (GROUP_CONCAT(STR(?superLabel); separator=",") AS ?superLabels)
 WHERE
 {
  ?c rdfs:label ?label .
