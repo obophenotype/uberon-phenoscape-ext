@@ -3,7 +3,7 @@ INSTRUCTIONS FOR EDITORS
 
 PRE-EDIT CHECKLIST
 ------------------
-
+alex was here
 Do you have an ID range in the idranges file (phenoscape-idranges.owl,
 in this directory)? If not, get one from the head curator.
 
