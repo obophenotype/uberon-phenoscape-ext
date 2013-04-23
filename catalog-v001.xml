@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/vto/2013-02-27/vto.owl" uri="vto-core-readonly.owl"/>
     <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/ncbitaxon/subsets/taxslim.owl" uri="file:/Users/cjm/mirror/purl.obolibrary.org/obo/ncbitaxon/subsets/taxslim.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=false, version=2" prefer="public" xml:base="">
         <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/uberon/phenoscape-ext.owl" uri="phenoscape-ext.owl"/>
