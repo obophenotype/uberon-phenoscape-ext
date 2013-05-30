@@ -21346,6 +21346,7 @@ AnnotationAssertion(<http://purl.obolibrary.org/obo/uberon/phenoscape-anatomy#pr
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/UBERON_4000162> "median fin"^^xsd:string)
 AnnotationAssertion(Annotation(<http://www.geneontology.org/formats/oboInOwl#hasDbXref> "PSPUB:0000164"^^xsd:string) <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/UBERON_4000162> "nageoire impaire"@fr)
 AnnotationAssertion(Annotation(<http://www.geneontology.org/formats/oboInOwl#hasDbXref> "TAO:curator"^^xsd:string) <http://purl.obolibrary.org/obo/IAO_0000115> <http://purl.obolibrary.org/obo/UBERON_4000162> "Fin that is an unpaired fin located in the sagittal plane of the organism."^^xsd:string)
+EquivalentClasses(<http://purl.obolibrary.org/obo/UBERON_4000162> ObjectIntersectionOf(ObjectSomeValuesFrom(<http://purl.obolibrary.org/obo/uberon#in_median_plane_of> <http://purl.obolibrary.org/obo/UBERON_0000468>) <http://purl.obolibrary.org/obo/UBERON_0008897>))
 SubClassOf(<http://purl.obolibrary.org/obo/UBERON_4000162> <http://purl.obolibrary.org/obo/UBERON_0008897>)
 Declaration(Class(<http://purl.obolibrary.org/obo/UBERON_4000163>))
 AnnotationAssertion(Annotation(<http://www.geneontology.org/formats/oboInOwl#hasDbXref> "PSPUB:0000164"^^xsd:string) <http://www.geneontology.org/formats/oboInOwl#hasExactSynonym> <http://purl.obolibrary.org/obo/UBERON_4000163> "nageoire anale"@fr)
