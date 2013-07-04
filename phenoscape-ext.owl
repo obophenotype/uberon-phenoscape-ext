@@ -6,7 +6,7 @@ Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
 
 
 Ontology(<http://purl.obolibrary.org/obo/uberon/ext.owl>
-Import(<http://purl.obolibrary.org/obo/uberon/uberon_edit.owl>)
+Import(<http://purl.obolibrary.org/obo/uberon/core.owl>)
 Annotation(<http://xmlns.com/foaf/0.1/homepage> "http://uberon.org#Phenoscape-ext"^^xsd:anyURI)
 Annotation(<http://purl.org/dc/elements/1.1/title> "Uberon with vertebrate extensions"^^xsd:anyURI)
 Annotation(<http://purl.org/dc/elements/1.1/source> "aggregates VSAO from 16:07:2012"^^xsd:string)
