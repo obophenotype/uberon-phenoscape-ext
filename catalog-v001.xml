@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
-    <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/uberon/uberon_edit.owl" uri="file:/Users/cjm/repos/uberon/uberon_edit.owl"/>
-
-  <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/uberon/core.owl" uri="core.owl"/>
-  <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/uberon/references/references.owl" uri="references/references.owl"/>
-  <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/uberon/pato_import.owl" uri="pato_import.owl"/>
-  <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/uberon/pr_import.owl" uri="pr_import.owl"/>
-  <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/uberon/cl_import.owl" uri="cl_import.owl"/>
-  <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/uberon/chebi_import.owl" uri="chebi_import.owl"/>
-  <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/uberon/go_import.owl" uri="go_import.owl"/>
-  <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/uberon/ncbitaxon_import.owl" uri="ncbitaxon_import.owl"/>
 
     <uri id="Imports Wizard Entry" name="http://purl.obolibrary.org/obo/vto/2013-02-27/vto.owl" uri="vto-core-readonly.owl"/>
     <uri id="User Entered Import Resolution" name="http://purl.obolibrary.org/obo/ncbitaxon/subsets/taxslim.owl" uri="file:/Users/cjm/mirror/purl.obolibrary.org/obo/ncbitaxon/subsets/taxslim.owl"/>
