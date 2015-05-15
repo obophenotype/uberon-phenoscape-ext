@@ -71,3 +71,7 @@ EquivalentTo: xsd:integer[> 4400000 , <= 4499999]
 Datatype: idrange:12
 Annotations: allocatedto: "Robert Druzinsky",
 EquivalentTo: xsd:integer[> 5000000 , <= 5499999]
+
+Datatype: idrange:13
+Annotations: allocatedto: "Laura Jackson",
+EquivalentTo: xsd:integer[> 4500000 , <= 4599999]
