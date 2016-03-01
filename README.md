@@ -3,7 +3,6 @@ INSTRUCTIONS FOR EDITORS
 
 PRE-EDIT CHECKLIST
 ------------------
-alex was here
 Do you have an ID range in the idranges file (phenoscape-idranges.owl,
 in this directory)? If not, get one from the head curator.
 
@@ -25,11 +24,9 @@ GETTING STARTED
 
 Always start by doing:
 
-  svn update
+`git pull origin master` (or equivalent in the GitHub Desktop app)
 
 Then, open the file phenoscape-ext.owl in Protege
-
-NOTE: If you get an error in the opening that says "org.xml.sax.SAXParseException: XML document structures must start and end within the same entity." this is an error in reading the core uberon file from SourceForge. Don't worry about it, just simply wait a few minutes and try again with a fresh opening of Protege.
 
 Switch on the Elk reasoner (see how to get plugins above). If you are making changes, be sure to
 synchronize the reasoner.
@@ -38,7 +35,7 @@ You have access rights to any classes that are highlighted in bold
 font. Do not make changes to classes that are NOT in bold - changes
 here go through the uberon tracker, or be brought up on the mailing
 list. Note that it is fine for any request to go on the uberon tracker. 
-The tracker is here: https://github.com/cmungall/uberon/issues?direction=desc&sort=created&state=open
+The tracker is here: https://github.com/obophenotype/uberon/issues
 
 OBSOLETING
 ---------------
@@ -75,7 +72,7 @@ SAVING and COMMITTING
 
 Save and commit regularly. Always describe the changes you have made
 at a high level in the svn commit messages. It is a good idea to type
-"svn diff" before committing (although the output can be hard to
+`git diff` before committing (although the output can be hard to
 decipher, it can sometimes show you egregious errors, sometimes Protege's fault).
 
 **Important: make sure you save in functional syntax, using the same
@@ -85,23 +82,20 @@ decipher, it can sometimes show you egregious errors, sometimes Protege's fault)
 
 Example session from view of command line:
 
-  svn update
+  git pull origin master
   # [open in protege]
   # [edit in Protege]
   # [save in Protege]
   # ...
   # [edit in Protege]
   # [save in Protege]
-  svn diff phenoscape-ext.owl
-  svn commit -m "polished up skull" phenoscape-ext.owl
-  svn update
+  git diff phenoscape-ext.owl
+  git commit -a -m "polished up skull"
+  git push origin master
 
-It is always a good idea to svn update immediately after an svn
-commit. If there are changes, Protege will ask you to reload. You may wish not to trust the reload and simply reopen Protege.
+It is always a good idea to `git pull` immediately after a git commit. If there are changes, Protege will ask you to reload. You may wish not to trust the reload and simply reopen Protege.
 
-After an svn commit, Jenkins will check your changes to make sure they
-conform to guidelines and do not introduce any inconsistencies - an
-email will be sent to the curators list.
+After a git commit, Jenkins will check your changes to make sure they conform to guidelines and do not introduce any inconsistencies - an email will be sent to the curators list.
 
 You can check on the build here:
   http://build.berkeleybop.org/job/build-phenoscape/
