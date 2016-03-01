@@ -1,7 +1,7 @@
-INSTRUCTIONS FOR EDITORS
+Instructions for editors
 ========================
 
-PRE-EDIT CHECKLIST
+Pre-edit checklist
 ------------------
 Do you have an ID range in the idranges file (phenoscape-idranges.owl,
 in this directory)? If not, get one from the head curator.
@@ -19,7 +19,7 @@ Get Elk here:
 http://code.google.com/p/elk-reasoner/downloads/list
 perform same operation as above to install.
 
-GETTING STARTED
+Getting started
 ---------------
 
 Always start by doing:
@@ -37,7 +37,7 @@ here go through the uberon tracker, or be brought up on the mailing
 list. Note that it is fine for any request to go on the uberon tracker. 
 The tracker is here: https://github.com/obophenotype/uberon/issues
 
-OBSOLETING
+Obsoleting
 ---------------
 
 At first, there may be a number of bold terms that need obsoleting and replacing with existing uberon classes. Here are the steps:
@@ -56,7 +56,7 @@ You should see the class crossed out after you do this.
 
 6. You may wish to add a comment regarding the reason for obsolescence or so as to include reference to why the term was replaced with whatever is indicated. Again, do not add more than one comment annotation on a class.
 
-ABOUT DEFINITION CITATIONS AND DBXREFS
+About definition citations and dbxrefs
 ---------------
 In order to properly display definition sources, you should add citations to the end of the definition text (make sure string is chosen in the bottom left type selector). Some examples include:
 definition "Paired long bones of endochondral origin that extend from the pectoral girdle to the elbows[AAO, modified]."^^string
@@ -67,7 +67,7 @@ definition "A midventral endochondral skeletal element which represents the orig
 Note that this is *different* than making a dbxref. The dbxref field should be used only for xref to another ontology class, database ID, or URL. dbxrefs can be made on the definition as an annotation on the definition or on the class directly, depending on the nature of the xref. To make an annotation on the definition, click the little "a" symbol (this works similarly on any axiom or annotation).
 
 
-SAVING and COMMITTING
+Saving and committing
 ---------------
 
 Save and commit regularly. Always describe the changes you have made
@@ -101,7 +101,7 @@ You can check on the build here:
   http://build.berkeleybop.org/job/build-phenoscape/
 Check for errors in the report, send an email to phenoscape curators if you cannot determine what the error is.
 
-CHECKLIST
+Checklist
 ---------
 
 Always synchronize the reasoner before committing. Did your changes
@@ -118,7 +118,7 @@ any of the following:
  * violation of obo-format (e.g. two labels for a class; two text
    definitions; etc)
 
-EDITORS GUIDE
+Editors guide
 -------------
 
 Ensure you have read and understand to some degree the various design
@@ -133,7 +133,7 @@ In particular:
 NEVER delete classes - ALWAYS obsolete/deprecate instead of deleting,
 and even then, do this carefully. Uses replaced_by/consider.
 
-ONTOLOGY COORDINATION
+Ontology coordination
 ---------------------
 
 Always be aware of the impact of changes you make on other parts of
@@ -157,7 +157,7 @@ remain in the core uberon edit source file for now.
 Note it is possible to accidentally save axioms in the wrong
 ontology. We will add checks to ensure this doesn't happen.
 
-TIPS
+Tips
 ----
 
 *Advanced*
