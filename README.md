@@ -1,3 +1,8 @@
+# This repo is obsolete
+
+The content in this repo [has been merged into the main Uberon ontology file](https://github.com/obophenotype/uberon/pull/1916).
+
+
 Instructions for editors
 ========================
 
